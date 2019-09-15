@@ -1,0 +1,6797 @@
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Rayne_Longboards
+
+Rayne	B-ORG	X
+Longboards	I-ORG	X
+was	O
+established	O
+in	O
+2004	O
+by	O
+owner	O
+and	O
+operator	O
+Graham	B-PER
+Buksa	I-PER
+.	O
+
+He	O
+began	O
+by	O
+producing	O
+longboard	O
+decks	O
+at	O
+their	O
+factory	O
+located	O
+in	O
+North	B-LOC
+Vancouver	I-LOC
+,	O
+British	B-LOC
+Columbia	I-LOC
+.	O
+
+The	O
+business	O
+later	O
+expanded	O
+to	O
+produce	O
+a	O
+range	O
+of	O
+products	O
+including	O
+skateboards	O
+,	O
+longboards	O
+,	O
+snowskates	O
+and	O
+powsurfers	O
+.	O
+
+In	O
+2008	O
+,	O
+Rayne	B-ORG	X
+developed	O
+a	O
+manufacturing	O
+system	O
+for	O
+producing	O
+boards	O
+entirely	O
+from	O
+bamboo	O
+and	O
+fibreglass	O
+,	O
+which	O
+have	O
+a	O
+better	O
+strength	O
+to	O
+weight	O
+ratio	O
+,	O
+are	O
+more	O
+water	O
+resistant	O
+,	O
+and	O
+hold	O
+their	O
+flex	O
+longer	O
+than	O
+traditional	O
+maple	O
+made	O
+boards	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Automattic
+
+On	O
+January	O
+11	O
+,	O
+2006	O
+,	O
+it	O
+was	O
+announced	O
+that	O
+Toni	B-PER
+Schneider	I-PER
+would	O
+be	O
+leaving	O
+Yahoo!	B-ORG
+to	O
+become	O
+CEO	O
+of	O
+Automattic	B-ORG	X
+.	O
+
+He	O
+was	O
+previously	O
+CEO	O
+of	O
+Oddpost	B-ORG
+before	O
+it	O
+was	O
+acquired	O
+by	O
+Yahoo!	B-ORG
+,	O
+where	O
+he	O
+had	O
+continued	O
+as	O
+a	O
+senior	O
+executive	O
+.	O
+
+In	O
+April	O
+2006	O
+,	O
+it	O
+was	O
+revealed	O
+,	O
+through	O
+a	O
+Regulation	O
+D	O
+filing	O
+,	O
+that	O
+Automattic	B-ORG	X
+raised	O
+approximately	O
+$1.1	O
+million	O
+in	O
+funding	O
+,	O
+which	O
+Mullenweg	B-PER
+addressed	O
+in	O
+his	O
+blog	O
+.	O
+
+Investors	O
+were	O
+Polaris	B-ORG
+Ventures	I-ORG
+,	O
+True	B-ORG
+Ventures	I-ORG
+,	O
+Radar	B-ORG
+Partners	I-ORG
+,	O
+and	O
+CNET	B-ORG
+.	O
+
+On	O
+September	O
+23	O
+,	O
+2008	O
+,	O
+Automattic	B-ORG	X
+announced	O
+acquiring	O
+IntenseDebate	B-ORG
+.	O
+
+Simplenote	O
+–	O
+note	O
+-	O
+taking	O
+and	O
+sync	O
+service	O
+based	O
+on	O
+another	O
+Automattic	B-ORG	X
+project	O
+simperium.com	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Hurricane_Camille
+
+Emerging	O
+into	O
+the	O
+Gulf	B-LOC
+of	I-LOC
+Mexico	B-LOC
+,	O
+Camille	O	X
+underwent	O
+another	O
+period	O
+of	O
+rapid	O
+intensification	O
+and	O
+became	O
+a	O
+Category	O
+5	O
+hurricane	O
+the	O
+next	O
+day	O
+as	O
+it	O
+moved	O
+northward	O
+towards	O
+the	O
+Louisiana	B-LOC
+–	I-LOC
+Mississippi	I-LOC
+region	O
+.	O
+
+Despite	O
+weakening	O
+slightly	O
+on	O
+August	O
+17	O
+,	O
+the	O
+hurricane	O
+quickly	O
+re-intensified	O
+back	O
+into	O
+a	O
+Category	O
+5	O
+hurricane	O
+before	O
+it	O
+made	O
+landfall	O
+in	O
+Pass	B-LOC
+Christian	I-LOC
+,	O
+Mississippi	B-LOC
+,	O
+early	O
+on	O
+August	O
+18	O
+,	O
+at	O
+peak	O
+intensity	O
+,	O
+with	O
+a	O
+minimum	O
+pressure	O
+of	O
+900	O
+mbar	O
+(	O
+26.58	O
+inHg	O
+)	O
+.	O
+
+This	O
+was	O
+the	O
+second-lowest	O
+pressure	O
+recorded	O
+for	O
+a	O
+US	B-LOC
+landfall	O
+.	O
+
+Only	O
+the	O
+1935	O
+Labor	O
+Day	O
+hurricane	O
+had	O
+a	O
+lower	O
+pressure	O
+at	O
+landfall	O
+.	O
+
+As	O
+Camille	O	X
+pushed	O
+inland	O
+,	O
+it	O
+quickly	O
+weakened	O
+and	O
+was	O
+a	O
+tropical	O
+depression	O
+by	O
+the	O
+time	O
+it	O
+was	O
+over	O
+the	O
+Ohio	B-LOC
+Valley	I-LOC
+.	O
+
+Once	O
+it	O
+emerged	O
+offshore	O
+,	O
+Camille	O	X
+was	O
+able	O
+to	O
+restrengthen	O
+to	O
+a	O
+strong	O
+tropical	O
+storm	O
+,	O
+before	O
+it	O
+became	O
+extratropical	O
+on	O
+August	O
+22	O
+.	O
+Camille	O	X
+was	O
+subsequently	O
+absorbed	O
+by	O
+a	O
+frontal	O
+storm	O
+over	O
+the	O
+North	B-LOC
+Atlantic	I-LOC
+on	O
+the	O
+same	O
+day	O
+.	O
+
+Camille	O	X
+caused	O
+tremendous	O
+damage	O
+in	O
+its	O
+wake	O
+,	O
+and	O
+also	O
+produced	O
+a	O
+peak	O
+official	O
+storm	O
+surge	O
+of	O
+24	O
+feet	O
+(	O
+7.3	O
+m	O
+)	O
+.	O
+
+The	O
+hurricane	O
+flattened	O
+nearly	O
+everything	O
+along	O
+the	O
+coast	O
+of	O
+the	O
+US	B-LOC
+state	O
+of	O
+Mississippi	B-LOC
+,	O
+and	O
+caused	O
+additional	O
+flooding	O
+and	O
+deaths	O
+inland	O
+while	O
+crossing	O
+the	O
+Appalachian	B-LOC
+Mountains	I-LOC
+of	O
+Virginia	B-LOC
+.	O
+
+In	O
+total	O
+,	O
+Camille	O	X
+killed	O
+259	O
+people	O
+and	O
+caused	O
+$1.43	O
+billion	O
+in	O
+damages	O
+(	O
+equivalent	O
+to	O
+$9.8	O
+billion	O
+in	O
+2018	O
+)	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Andrew_Fotiadis
+
+Panos	B-PER	X
+Andrew	I-PER	X
+Andy	I-PER	X
+Fotiadis	I-PER	X
+is	O
+an	O
+English	O
+former	O
+footballer	O
+of	O
+Greek	O
+descent	O
+,	O
+best	O
+known	O
+for	O
+his	O
+time	O
+at	O
+Luton	B-LOC
+Town	I-LOC
+.	O
+
+Fotiadis	B-PER	X
+started	O
+the	O
+2000	O
+–	O
+01	O
+campaign	O
+in	O
+the	O
+starting	O
+lineup	O
+,	O
+and	O
+showed	O
+some	O
+fine	O
+form	O
+.	O
+
+He	O
+won	O
+caps	O
+for	O
+the	O
+England	B-LOC
+under	O
+-	O
+15	O
+and	O
+under	O
+-	O
+18	O
+teams	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/List_of_Dynamo_Dresden_players
+
+As	O
+one	O
+of	O
+the	O
+leading	O
+clubs	O
+in	O
+East	B-LOC
+Germany	I-LOC
+,	O
+Dynamo	B-ORG	X
+Dresden	I-ORG	X
+provided	O
+36	O
+East	B-LOC
+German	I-LOC
+internationals	O
+,	O
+including	O
+the	O
+country	O
+'s	O
+second	O
+most-capped	O
+player	O
+,	O
+Hans-Jürgen	B-PER
+Dörner	I-PPER
+,	O
+and	O
+its	O
+joint	O
+second	O
+top	O
+scorer	O
+,	O
+Hans-Jürgen	B-PER
+Kreische	I-PER
+.	O
+
+Kreische	B-PER
+and	O
+Siegmar	B-PER
+Wätzlich	I-PER
+were	O
+in	O
+East	B-LOC
+Germany	I-LOC
+'s	O
+squad	O
+for	O
+their	O
+only	O
+World	O
+Cup	O
+appearance	O
+(	O
+1974	O
+)	O
+,	O
+while	O
+twelve	O
+Dynamo	B-ORG	X
+players	O
+won	O
+Olympic	O
+medals	O
+,	O
+including	O
+six	O
+gold	O
+medallists	O
+in	O
+1976	O
+.	O
+
+After	O
+German	O
+reunification	O
+a	O
+number	O
+of	O
+Dynamo	B-ORG	X
+players	O
+went	O
+on	O
+to	O
+represent	O
+the	O
+Germany	B-LOC
+national	O
+team	O
+,	O
+including	O
+Jens	B-PER
+Jeremies	I-PER
+,	O
+Ulf	B-PER
+Kirsten	I-PER
+,	O
+Olaf	B-PER
+Marschall	I-PER
+and	O
+Alexander	B-PER
+Zickler	I-PER
+.	O
+
+Dynamo	B-ORG	X
+have	O
+also	O
+seen	O
+internationals	O
+from	O
+other	O
+nations	O
+,	O
+including	O
+Australia	B-LOC
+(	O
+Joshua	B-PER
+Kennedy	I-PER
+and	O
+Mark	B-PER
+Schwarzer	I-PER
+)	O
+,	O
+the	O
+Czech	B-LOC
+Republic	I-LOC
+(	O
+Ivo	B-PER
+Ulich	I-PER
+and	O
+Tomas	B-PER
+Votava	I-PER
+)	O
+,	O
+Slovenia	B-LOC
+(	O
+Klemen	B-PER
+Lavrič	I-PER
+and	O
+Miran	B-PER
+Pavlin	I-PER
+)	O
+and	O
+Sweden	B-LOC
+(	O
+Johnny	B-PER
+Ekström	I-PER
+)	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Diana_(1823)
+
+Diana	O	X
+was	O
+a	O
+steam	O
+paddle	O
+steamer	O
+built	O
+in	O
+1823	O
+as	O
+a	O
+merchant	O
+vessel	O
+and	O
+purchased	O
+by	O
+the	O
+Bengal	B-ORG
+Government	I-ORG
+in	O
+1824	O
+.	O
+
+During	O
+the	O
+First	O
+Anglo-Burmese	O
+War	O
+she	O
+became	O
+the	O
+first	O
+steam-powered	O
+warship	O
+of	O
+the	O
+Honourable	B-ORG
+East	I-ORG
+India	I-ORG
+Company	I-ORG
+to	O
+see	O
+action	O
+.	O
+
+The	O
+war	O
+ended	O
+on	O
+8	O
+March	O
+1826	O
+and	O
+in	O
+that	O
+year	O
+she	O
+was	O
+transferred	O
+to	O
+the	O
+Burmese	B-ORG
+Government	I-ORG
+.	O
+
+Although	O
+one	O
+reference	O
+says	O
+she	O
+was	O
+broken	O
+up	O
+in	O
+1836	O
+,	O
+most	O
+assert	O
+that	O
+she	O
+was	O
+sold	O
+to	O
+Singapore	B-LOC
+.	O
+
+Diana	O	X
+steamed	O
+to	O
+Singapore	B-LOC
+on	O
+28	O
+February	O
+1836	O
+.	O
+
+Johnston	B-ORG
+&	I-ORG
+Co.	I-ORG
+advertised	O
+her	O
+for	O
+sale	O
+.	O
+
+The	O
+East	B-ORG
+India	I-ORG
+Company	I-ORG
+purchased	O
+her	O
+in	O
+March	O
+1837	O
+and	O
+appointed	O
+Samuel	B-PER
+Congalton	I-PER
+her	O
+captain	O
+.	O
+
+Diana	O	X
+'s	O
+establishment	O
+consisted	O
+of	O
+her	O
+captain	O
+,	O
+two	O
+European	O
+officers	O
+and	O
+thirty	O
+Malays	O
+.	O
+
+In	O
+the	O
+East	B-ORG
+India	I-ORG
+Company	I-ORG
+'s	O
+service	O
+Diana	O	X
+suppressed	O
+piracy	O
+and	O
+conducted	O
+maritime	O
+surveys	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Java
+
+Initially	O
+the	O
+economy	O
+of	O
+Java	B-LOC	X
+relied	O
+heavily	O
+on	O
+rice	O
+agriculture	O
+.	O
+
+Ancient	O
+kingdoms	O
+such	O
+as	O
+the	O
+Tarumanagara	B-LOC
+,	O
+Mataram	B-LOC
+,	O
+and	O
+Majapahit	B-LOC
+were	O
+dependent	O
+on	O
+rice	O
+yields	O
+and	O
+tax	O
+.	O
+
+Java	B-LOC	X
+was	O
+famous	O
+for	O
+rice	O
+surpluses	O
+and	O
+rice	O
+export	O
+since	O
+ancient	O
+times	O
+,	O
+and	O
+rice	O
+agriculture	O
+contributed	O
+to	O
+the	O
+population	O
+growth	O
+of	O
+the	O
+island	O
+.	O
+
+Trade	O
+with	O
+other	O
+parts	O
+of	O
+Asia	B-LOC
+such	O
+as	O
+ancient	O
+India	B-LOC
+and	O
+China	B-LOC
+flourished	O
+as	O
+early	O
+as	O
+the	O
+4th	O
+century	O
+,	O
+as	O
+evidenced	O
+by	O
+Chinese	O
+ceramics	O
+found	O
+on	O
+the	O
+island	O
+dated	O
+to	O
+that	O
+period	O
+.	O
+
+Java	B-LOC	X
+also	O
+took	O
+part	O
+in	O
+the	O
+global	O
+trade	O
+of	O
+Maluku	B-LOC
+spice	O
+from	O
+ancient	O
+times	O
+in	O
+the	O
+Majapahit	B-LOC
+era	O
+,	O
+until	O
+well	O
+into	O
+the	O
+Dutch	B-ORG
+East	I-ORG
+India	I-ORG
+Company	I-ORG
+(	O
+VOC	B-ORG
+)	O
+era	O
+.
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Corymbia_citriodora
+
+Corymbia	O	X
+citriodora	O
+is	O
+a	O
+tall	O
+tree	O
+,	O
+growing	O
+to	O
+35	O
+metres	O
+(	O
+115	O
+ft	O
+)	O
+in	O
+height	O
+(	O
+but	O
+sometimes	O
+taller	O
+)	O
+,	O
+from	O
+temperate	O
+and	O
+tropical	O
+north	O
+eastern	O
+Australia	B-LOC
+.	O
+
+
+Plants	O
+of	O
+C	O
+.	O
+citriodora	O
+are	O
+naturalised	O
+in	O
+the	O
+Darling	B-LOC
+Range	I-LOC
+near	O
+Mundaring	B-LOC
+,	O
+Western	B-LOC
+Australia	I-LOC
+and	O
+by	O
+planting	O
+to	O
+suburban	O
+New	B-LOC
+South	I-LOC
+Wales	I-LOC
+,	O
+South	B-LOC
+Australia	I-LOC
+and	O
+Victoria	B-LOC
+.	O
+
+Kings	B-LOC
+Park	I-LOC
+in	O
+Perth	B-LOC
+has	O
+a	O
+famous	O
+,	O
+beautiful	O
+avenue	O
+of	O
+this	O
+species	O
+planted	O
+many	O
+years	O
+ago	O
+,	O
+but	O
+it	O
+has	O
+spread	O
+to	O
+become	O
+a	O
+serious	O
+weed	O
+.	O
+
+Corymbia	O	X
+citriodora	O
+is	O
+an	O
+important	O
+forest	O
+tree	O
+,	O
+in	O
+demand	O
+for	O
+structural	O
+timber	O
+and	O
+for	O
+honey	O
+production	O
+.	O
+
+It	O
+also	O
+is	O
+popular	O
+in	O
+horticulture	O
+both	O
+within	O
+Australia	B-LOC
+and	O
+overseas	O
+.	O
+
+The	O
+name	O
+Corymbia	O	X
+citriodora	O
+comes	O
+from	O
+the	O
+Latin	O
+citriodorus	O
+,	O
+which	O
+means	O
+lemon-scented	O
+.	O
+
+Many	O
+naturalists	O
+and	O
+conservationists	O
+do	O
+not	O
+recognise	O
+the	O
+Corymbia	O	X
+genus	O
+and	O
+still	O
+categorise	O
+its	O
+species	O
+within	O
+Eucalyptus	O
+.	O
+
+Corymbia	O	X
+is	O
+a	O
+genus	O
+of	O
+about	O
+113	O
+species	O
+of	O
+tree	O
+that	O
+were	O
+classified	O
+as	O
+Eucalyptus	O
+species	O
+until	O
+the	O
+mid-1990s	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Precambrian
+
+The	O	X
+Precambrian	O	X
+(	O
+or	O
+Pre-Cambrian	O	X
+,	O
+sometimes	O
+abbreviated	O
+pЄ	O
+,	O
+or	O
+Cryptozoic	O
+)	O
+is	O
+the	O
+earliest	O
+part	O
+of	O
+Earth	B-LOC
+'s	O
+history	O
+,	O
+set	O
+before	O
+the	O
+current	O
+Phanerozoic	O
+Eon	O
+.	O
+
+The	O	X
+Precambrian	O	X
+is	O
+so	O
+named	O
+because	O
+it	O
+preceded	O
+the	O
+Cambrian	O
+,	O
+the	O
+first	O
+period	O
+of	O
+the	O
+Phanerozoic	O
+eon	O
+,	O
+which	O
+is	O
+named	O
+after	O
+Cambria	O
+,	O
+the	O
+Latinised	O
+name	O
+for	O
+Wales	B-LOC
+,	O
+where	O
+rocks	O
+from	O
+this	O
+age	O
+were	O
+first	O
+studied	O
+.	O
+
+The	O	X
+Precambrian	O	X
+accounts	O
+for	O
+88	O
+%	O
+of	O
+the	O
+Earth	B-LOC
+'s	O
+geologic	O
+time	O
+.
+
+Relatively	O
+little	O
+is	O
+known	O
+about	O
+the	O	X
+Precambrian	O	X
+,	O
+despite	O
+it	O
+making	O
+up	O
+roughly	O
+seven	O
+-	O
+eighths	O
+of	O
+the	O
+Earth	B-LOC
+'s	O
+history	O
+,	O
+and	O
+what	O
+is	O
+known	O
+has	O
+largely	O
+been	O
+discovered	O
+from	O
+the	O
+1960s	O
+onwards	O
+.	O
+
+The	O	X
+Precambrian	O	X
+fossil	O
+record	O
+is	O
+poorer	O
+than	O
+that	O
+of	O
+the	O
+succeeding	O
+Phanerozoic	O
+,	O
+and	O
+fossils	O
+from	O
+the	O	X
+Precambrian	O	X
+(	O
+e.g.	O
+stromatolites	O
+)	O
+are	O
+of	O
+limited	O
+biostratigraphic	O
+use	O
+.	O
+
+This	O
+is	O
+because	O
+many	O
+Precambrian	O	X
+rocks	O
+have	O
+been	O
+heavily	O
+metamorphosed	O
+,	O
+obscuring	O
+their	O
+origins	O
+,	O
+while	O
+others	O
+have	O
+been	O
+destroyed	O
+by	O
+erosion	O
+,	O
+or	O
+remain	O
+deeply	O
+buried	O
+beneath	O
+Phanerozoic	O
+strata	O
+.
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Butylated_hydroxytoluene
+
+Butylated	O
+hydroxytoluene	O
+(	O
+BHT	O	X
+)	O
+,	O
+also	O
+known	O
+as	O
+dibutylhydroxytoluene	O
+,	O
+is	O
+a	O
+lipophilic	O
+organic	O
+compound	O
+,	O
+chemically	O
+a	O
+derivative	O
+of	O
+phenol	O
+,	O
+that	O
+is	O
+useful	O
+for	O
+its	O
+antioxidant	O
+properties	O
+.	O
+
+European	O
+and	O
+U.S.	B-LOC
+regulations	O
+allow	O
+small	O
+amounts	O
+to	O
+be	O
+used	O
+as	O
+a	O
+food	O
+additive	O
+.	O
+
+In	O
+addition	O
+to	O
+this	O
+use	O
+,	O
+BHT	O	X
+is	O
+widely	O
+used	O
+to	O
+prevent	O
+oxidation	O
+in	O
+fluids	O
+(	O
+e.g.	O
+fuel	O
+,	O
+oil	O
+)	O
+and	O
+other	O
+materials	O
+where	O
+free	O
+radicals	O
+must	O
+be	O
+controlled	O
+.	O
+
+The	O
+US	B-ORG
+Food	I-ORG
+and	I-ORG
+Drug	I-ORG
+Administration	I-ORG
+classifies	O
+BHT	O	X
+as	O
+generally	O
+recognized	O
+as	O
+safe	O
+(	O
+GRAS	O
+)	O
+as	O
+a	O
+food	O
+preservative	O
+when	O
+used	O
+according	O
+to	O
+approved	O
+uses	O
+.	O
+
+There	O
+is	O
+,	O
+however	O
+,	O
+some	O
+debate	O
+surrounding	O
+a	O
+possible	O
+link	O
+between	O
+BHT	O	X
+and	O
+cancer	O
+risk	O
+,	O
+asthma	O
+,	O
+and	O
+behavioral	O
+issues	O
+in	O
+children	O
+;	O
+some	O
+studies	O
+show	O
+a	O
+potential	O
+to	O
+increase	O
+risk	O
+and	O
+some	O
+to	O
+decrease	O
+risk	O
+.	O
+
+Because	O
+of	O
+this	O
+uncertainty	O
+,	O
+the	O
+consumer	O
+group	O
+Center	B-ORG
+for	I-ORG
+Science	I-ORG
+in	I-ORG
+the	I-ORG
+Public	I-ORG
+Interest	I-ORG
+recommend	O
+to	O
+avoid	O
+BHT	O	X
+and	O
+puts	O
+BHT	O	X
+in	O
+its	O
+"	O
+caution	O
+"	O
+column	O
+.
+
+The	B-ORG
+National	I-ORG
+Cancer	I-ORG
+Institute	I-ORG
+determined	O
+in	O
+1979	O
+that	O
+it	O
+was	O
+noncarcinogenic	O
+in	O
+a	O
+mouse	O
+model	O
+.	O
+
+BHT	O	X
+has	O
+low	O
+acute	O
+toxicity	O
+,	O
+as	O
+do	O
+other	O
+closely	O
+related	O
+phenol	O
+antioxidants	O
+.
+
+For	O
+example	O
+,	O
+the	O
+LD50	O
+of	O
+2,6	O
+-	O
+di	O
+-	O
+tert	O
+-	O
+butylphenol	O
+is	O
+greater	O
+than	O
+9	O
+g	O
+/	O
+kg	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Magdalena_%C3%81lvarez
+
+Magdalena	B-PER	X
+Álvarez	I-PER	X
+was	O
+an	O
+MP	O
+in	O
+the	O
+Andalusian	O
+parliament	O
+for	O
+the	O
+province	O
+of	O
+Málaga	B-LOC
+,	O
+and	O
+in	O
+August	O
+1994	O
+she	O
+was	O
+named	O
+Minister	O
+of	O
+the	O
+Economy	O
+and	O
+Revenue	O
+for	O
+the	O
+Junta	B-ORG
+de	I-ORG
+Andalucía	I-ORG
+,	O
+becoming	O
+a	O
+member	O
+of	O
+the	O
+second	O
+cabinet	O
+of	O
+Manuel	B-PER
+Chaves	I-PER
+.	O
+
+In	O
+the	O
+subsequent	O
+elections	O
+,	O
+in	O
+March	O
+2000	O
+,	O
+Chaves	B-PER
+kept	O
+her	O
+as	O
+head	O
+of	O
+the	O
+Ministry	O
+of	O
+Economy	O
+and	O
+Revenue	O
+for	O
+the	O
+sixth	O
+Andaluz	O
+Parliament	O
+.	O
+
+On	O
+2	O
+July	O
+2013	O
+Alvarez	B-PER	X
+was	O
+formally	O
+charged	O
+by	O
+Judge	O
+Alaya	B-PER
+in	O
+the	O
+ERE	O
+case	O
+in	O
+Andalusia	B-LOC
+,	O
+due	O
+to	O
+a	O
+consistent	O
+pattern	O
+of	O
+alleged	O
+misappropriation	O
+of	O
+public	O
+funds	O
+between	O
+2001	O
+and	O
+2010	O
+under	O
+the	O
+leadership	O
+of	O
+the	O
+PSOE	B-ORG
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/HVAC_control_system
+
+HVAC	O	X
+(	O
+Heating	O
+,	O
+Ventilation	O
+and	O
+Air	O
+Conditioning	O
+)	O
+equipment	O
+needs	O
+a	O
+control	O
+system	O
+to	O
+regulate	O
+the	O
+operation	O
+of	O
+a	O
+heating	O
+and	O
+/	O
+or	O
+air	O
+conditioning	O
+system	O
+.	O
+
+Usually	O
+a	O
+sensing	O
+device	O
+is	O
+used	O
+to	O
+compare	O
+the	O
+actual	O
+state	O
+(	O
+e.g.	O
+temperature	O
+)	O
+with	O
+a	O
+target	O
+state	O
+.	O
+
+Then	O
+the	O
+control	O
+system	O
+draws	O
+a	O
+conclusion	O
+what	O
+action	O
+has	O
+to	O
+be	O
+taken	O
+(	O
+e.g.	O
+start	O
+the	O
+blower	O
+)	O
+.	O
+
+More	O
+complex	O
+HVAC	O	X
+systems	O
+can	O
+interface	O
+to	O
+Building	O
+Automation	O
+System	O
+(	O
+BAS	O
+)	O
+to	O
+allow	O
+the	O
+building	O
+owners	O
+to	O
+have	O
+more	O
+control	O
+over	O
+the	O
+heating	O
+or	O
+cooling	O
+units	O
+.	O
+
+The	O
+building	O
+owner	O
+can	O
+monitor	O
+the	O
+system	O
+and	O
+respond	O
+to	O
+alarms	O
+generated	O
+by	O
+the	O
+system	O
+from	O
+local	O
+or	O
+remote	O
+locations	O
+.	O
+
+The	O
+system	O
+can	O
+be	O
+scheduled	O
+for	O
+occupancy	O
+or	O
+the	O
+configuration	O
+can	O
+be	O
+changed	O
+from	O
+the	O
+BAS	O
+.	O
+
+Sometimes	O
+the	O
+BAS	O
+is	O
+directly	O
+controlling	O
+the	O
+HVAC	O	X
+components	O
+.	O
+
+Depending	O
+on	O
+the	O
+BAS	O
+different	O
+interfaces	O
+can	O
+be	O
+used	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Parectopa_ononidis
+
+Parectopa	O	X
+ononidis	O	X
+is	O
+a	O
+moth	O
+of	O
+the	O
+family	O
+Gracillariidae	O
+.	O
+
+It	O
+is	O
+known	O
+from	O
+all	O
+of	O
+Europe	B-LOC
+,	O
+except	O
+Ireland	B-LOC
+and	O
+the	O
+Balkan	B-LOC
+Peninsula	I-LOC
+.	O
+
+The	O
+wingspan	O
+is	O
+about	O
+8	O
+mm	O
+.	O
+
+Adults	O
+are	O
+on	O
+wing	O
+from	O
+May	O
+to	O
+August	O
+in	O
+two	O
+to	O
+three	O
+generations	O
+per	O
+year	O
+.	O
+
+The	O
+larvae	O
+feed	O
+on	O
+Ononis	O
+repens	O
+,	O
+Ononis	O
+spinosa	O
+,	O
+Trifolium	O
+medium	O
+,	O
+Trifolium	O
+montanum	O
+,	O
+Trifolium	O
+ochroleucum	O
+,	O
+Trifolium	O
+pratense	O
+and	O
+Trifolium	O
+repens	O
+.	O
+
+They	O
+mine	O
+the	O
+leaves	O
+of	O
+their	O
+host	O
+plant	O
+.	O
+
+The	O
+mine	O
+starts	O
+as	O
+a	O
+small	O
+,	O
+lower-surface	O
+epidermal	O
+corridor	O
+.	O
+
+Only	O
+after	O
+the	O
+first	O
+moult	O
+the	O
+larva	O
+starts	O
+feeding	O
+on	O
+the	O
+leaf	O
+parenchyma	O
+,	O
+resulting	O
+in	O
+a	O
+corridor	O
+overlying	O
+the	O
+midrib	O
+.	O
+
+From	O
+here	O
+branches	O
+enter	O
+the	O
+leaf	O
+disk	O
+,	O
+gradually	O
+widening	O
+and	O
+merging	O
+,	O
+leaving	O
+almost	O
+the	O
+entire	O
+mine	O
+mined	O
+out	O
+in	O
+the	O
+end	O
+.	O
+
+Most	O
+frass	O
+is	O
+ejected	O
+.	O
+
+The	O
+larva	O
+may	O
+leave	O
+the	O
+mine	O
+and	O
+start	O
+elsewhere	O
+.	O
+
+Pupation	O
+takes	O
+place	O
+within	O
+the	O
+mine	O
+.	O
+
+Species	O
+:	O
+P	O	X
+.	O	X
+ononidis	O	X
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/78_Saab
+
+78	B-ORG	X
+Saab	I-ORG	X
+formed	O
+at	O
+the	O
+Australian	B-LOC
+National	I-LOC
+University	I-LOC
+,	O
+with	O
+the	O
+original	O
+members	O
+being	O
+Nash	B-PER
+,	O
+Tregillgas	B-PER
+,	O
+Darren	B-PER
+Smith	I-PER
+and	O
+Christovac	B-PER
+Thompson	I-PER
+.	O
+
+For	O
+the	O
+purpose	O
+of	O
+attaining	O
+live	O
+performance	O
+experience	O
+,	O
+they	O
+entered	O
+the	O
+Australian	O
+National	O
+Campus	O
+Band	O
+Competition	O
+in	O
+1996	O
+,	O
+with	O
+the	O
+band	O
+name	O
+chosen	O
+spontaneously	O
+in	O
+order	O
+to	O
+complete	O
+the	O
+entry	O
+form	O
+.	O
+
+After	O
+its	O
+release	O
+in	O
+1997	O
+,	O
+78	B-ORG	X
+Saab	I-ORG	X
+prepared	O
+for	O
+a	O
+run	O
+of	O
+35	O
+dates	O
+to	O
+promote	O
+the	O
+EP	O
+.	O
+
+Before	O
+the	O
+tour	O
+began	O
+however	O
+,	O
+Darren	B-PER
+Smith	I-PER
+made	O
+the	O
+decision	O
+not	O
+to	O
+continue	O
+with	O
+the	O
+band	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Ekwendeni
+
+Ekwendeni	B-LOC	X
+is	O
+a	O
+town	O
+in	O
+the	O
+Northern	O
+Region	O
+of	O
+Malawi	B-LOC
+.	O
+
+It	O
+lies	O
+about	O
+20	O
+kilometres	O
+(	O
+12	O
+mi	O
+)	O
+from	O
+Mzuzu	B-LOC
+,	O
+in	O
+the	O
+Mzimba	B-LOC
+district	O
+.	O
+
+Ekwendeni	B-LOC	X
+was	O
+started	O
+by	O
+Scottish	O
+missionaries	O
+.	O
+
+In	O
+1889	O
+Walter	B-PER
+Angus	I-PER
+Elmslie	I-PER
+opened	O
+a	O
+mission	O
+station	O
+at	O
+Ekwendeni	B-LOC	X
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Courtney_Love
+
+Courtney	B-PER	X
+Michelle	I-PER	X
+Love	I-PER	X
+(	O
+née	O
+Harrison	B-PER
+;	O
+born	O
+July	O
+9	O
+,	O
+1964	O
+)	O
+is	O
+an	O
+American	O
+singer	O
+,	O
+songwriter	O
+and	O
+actress	O
+.	O
+
+A	O
+figure	O
+in	O
+the	O
+punk	O
+and	O
+grunge	O
+scenes	O
+of	O
+the	O
+1990s	O
+,	O
+Love	B-PER	X
+'s	O
+career	O
+has	O
+spanned	O
+four	O
+decades	O
+.	O
+
+She	O
+rose	O
+to	O
+prominence	O
+as	O
+the	O
+lead	O
+vocalist	O
+of	O
+the	O
+alternative	O
+rock	O
+band	O
+Hole	B-ORG
+,	O
+which	O
+she	O
+formed	O
+in	O
+1989	O
+.	O
+
+Love	B-PER	X
+has	O
+drawn	O
+public	O
+attention	O
+for	O
+her	O
+uninhibited	O
+live	O
+performances	O
+and	O
+confrontational	O
+lyrics	O
+,	O
+as	O
+well	O
+as	O
+her	O
+highly	O
+publicized	O
+personal	O
+life	O
+following	O
+her	O
+marriage	O
+to	O
+Nirvana	B-ORG
+frontman	O
+Kurt	B-PER
+Cobain	I-PER
+.	O
+
+Love	B-PER	X
+was	O
+subject	O
+of	O
+a	O
+second	O
+landmark	O
+libel	O
+lawsuit	O
+brought	O
+against	O
+her	O
+in	O
+January	O
+2014	O
+by	O
+her	O
+former	O
+attorney	O
+Rhonda	B-PER
+Holmes	I-PER
+,	O
+who	O
+accused	O
+Love	B-PER	X
+of	O
+online	O
+defamation	O
+,	O
+seeking	O
+$8	O
+million	O
+in	O
+damages	O
+.	O
+
+It	O
+was	O
+the	O
+first	O
+case	O
+of	O
+alleged	O
+Twitter	B-ORG
+-	O
+based	O
+libel	O
+in	O
+U.S.	B-LOC
+history	O
+to	O
+make	O
+it	O
+to	O
+trial	O
+.
+
+The	O
+jury	O
+,	O
+however	O
+,	O
+found	O
+in	O
+Love	B-PER	X
+'s	O
+favor	O
+.	O
+
+A	O
+subsequent	O
+defamation	O
+lawsuit	O
+filed	O
+by	O
+fashion	O
+Simorangkir	B-PER
+in	O
+February	O
+2014	O
+,	O
+however	O
+,	O
+resulted	O
+in	O
+Love	B-PER	X
+being	O
+ordered	O
+to	O
+pay	O
+a	O
+further	O
+$350	O
+,	O
+000	O
+in	O
+recompense	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Tamer_Institute_for_Community_Education
+
+The	O
+Tamer	B-ORG	X
+Institute	I-ORG
+for	I-ORG
+Community	I-ORG
+Education	I-ORG
+is	O
+a	O
+non-profit	O
+non-governmental	O
+educational	O
+organization	O
+working	O
+in	O
+Palestine	B-LOC
+.	O
+
+It	O
+was	O
+established	O
+in	O
+1989	O
+in	O
+response	O
+to	O
+Palestinian	O
+needs	O
+during	O
+the	O
+first	O
+intifada	O
+.	O
+
+Tamer	B-ORG	X
+works	O
+primarily	O
+with	O
+and	O
+for	O
+children	O
+and	O
+young	O
+people	O
+,	O
+providing	O
+safe	O
+,	O
+friendly	O
+learning	O
+environments	O
+and	O
+materials	O
+.	O
+
+Tamer	B-ORG	X
+runs	O
+a	O
+publishing	O
+unit	O
+,	O
+publish	O
+a	O
+newsletter	O
+,	O
+hold	O
+courses	O
+for	O
+librarians	O
+,	O
+arranges	O
+workshops	O
+,	O
+donate	O
+books	O
+to	O
+local	O
+libraries	O
+and	O
+arranges	O
+an	O
+annual	O
+reading	O
+-	O
+and	O
+writing	O
+campaign	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Dragon_Dynasty
+
+Dragon	B-ORG	X
+Dynasty	I-ORG	X
+is	O
+a	O
+joint	O
+venture	O
+started	O
+by	O
+Bleecker	B-ORG
+Street	I-ORG
+,	O
+The	B-ORG
+Weinstein	I-ORG
+Company	I-ORG
+and	O
+Genius	B-ORG
+Products	I-ORG
+.	O
+
+On	O
+19	O
+June	O
+2007	O
+,	O
+Dragon	B-ORG	O
+Dynasty	I-ORG	O
+released	O
+the	O
+film	O
+My	O
+Young	O
+Auntie	O
+.
+
+The	O
+film	O
+was	O
+originally	O
+produced	O
+in	O
+Hong	B-LOC
+Kong	I-LOC
+by	O
+Shaw	B-ORG
+Brothers	I-ORG
+in	O
+1981	O
+and	O
+was	O
+accordingly	O
+released	O
+with	O
+a	O
+Cantonese	O
+soundtrack	O
+as	O
+standard	O
+.	O
+
+However	O
+,	O
+Dragon	B-ORG	O
+Dynasty	I-ORG	O
+'s	O
+DVD	O
+features	O
+only	O
+the	O
+Mandarin	O
+and	O
+English	O
+dubbed	O
+soundtracks	O
+.	O
+
+Whilst	O
+it	O
+is	O
+true	O
+that	O
+some	O
+of	O
+the	O
+cast	O
+spoke	O
+Mandarin	O
+during	O
+filming	O
+(	O
+as	O
+is	O
+often	O
+the	O
+case	O
+with	O
+Hong	B-LOC
+Kong	I-LOC
+film	O
+productions	O
+)	O
+,	O
+the	O
+main	O
+star	O
+(	O
+Kara	B-PER
+Hui	I-PER
+)	O
+and	O
+many	O
+other	O
+cast	O
+members	O
+spoke	O
+Cantonese	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/STMicroelectronics
+
+STMicroelectronics	B-ORG	X
+is	O
+a	O
+French-Italian	O
+multinational	O
+electronics	O
+and	O
+semiconductor	O
+manufacturer	O
+headquartered	O
+in	O
+Geneva	B-LOC
+,	O
+Switzerland	B-LOC
+.
+
+It	O
+is	O
+commonly	O
+called	O
+ST	B-ORG	X
+,	O
+and	O
+it	O
+is	O
+Europe	B-LOC
+'s	O
+largest	O
+semiconductor	O
+chip	O
+maker	O
+based	O
+on	O
+revenue	O
+.
+
+In	O
+2011	O
+,	O
+ST	B-ORG	X
+announced	O
+the	O
+creation	O
+of	O
+a	O
+joint	O
+lab	O
+with	O
+Sant'Anna	B-ORG
+School	I-ORG
+of	I-ORG
+Advanced	I-ORG
+Studies	I-ORG
+.
+
+The	O
+lab	O
+will	O
+focus	O
+on	O
+research	O
+and	O
+innovation	O
+in	O
+bio-robotics	O
+,	O
+smart	O
+systems	O
+and	O
+microelectronics	O
+.
+
+Past	O
+collaborations	O
+with	O
+Sant'Anna	B-ORG
+School	I-ORG
+of	I-ORG
+Advanced	I-ORG
+Studies	-ORG
+included	O
+DustBot	O
+,	O
+a	O
+platform	O
+that	O
+integrated	O
+self-navigating	O
+"	O
+service	O
+robots	O
+"	O
+for	O
+waste	O
+collection	O
+.
+
+ST	B-ORG
+Ericsson	I-ORG
+was	O
+a	O
+multinational	O
+manufacturer	O
+of	O
+wireless	O
+products	O
+and	O
+semiconductors	O
+,	O
+supplying	O
+to	O
+mobile	O
+device	O
+manufacturers	O
+.
+
+ST-Ericsson	B-ORG
+was	O
+a	O
+50/50	O
+joint	O
+venture	O
+of	O
+Ericsson	B-ORG
+and	O
+STMicroelectronics	B-ORG
+established	O
+on	O
+February	O
+3	O
+,	O
+2009	O
+,	O
+and	O
+dissolved	O
+on	O
+August	O
+2	O
+,	O
+2013	O
+.
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/HMS_Pakenham
+
+Three	O
+ships	O
+of	O
+the	O
+Royal	B-ORG
+Navy	I-ORG
+have	O
+been	O
+named	O
+HMS	O	X
+Pakenham	O	X
+,	O
+after	O
+Admiral	O
+Sir	O
+Thomas	B-PER
+Pakenham	I-PER
+:	O
+
+The	O
+first	O
+HMS	O	X
+Pakenham	O	X
+(	O
+1797	O
+)	O
+was	O
+a	O
+1-gun	O
+gunvessel	O
+purchased	O
+in	O
+1797	O
+.	O
+
+She	O
+was	O
+in	O
+service	O
+in	O
+1800	O
+and	O
+may	O
+have	O
+been	O
+sold	O
+in	O
+1802	O
+.	O
+
+The	O
+second	O
+HMS	O	X
+Pakenham	O	X
+was	O
+an	O
+O-class	O
+destroyer	O
+.	O
+
+She	O
+was	O
+renamed	O
+HMS	O
+Onslow	O
+(	O
+G17	O
+)	O
+shortly	O
+after	O
+being	O
+launched	O
+in	O
+1941	O
+.	O
+
+The	O
+third	O
+HMS	O	X
+Pakenham	O	X
+(	O
+G06	O
+)	O
+was	O
+a	O
+P-class	O
+destroyer	O
+built	O
+as	O
+HMS	O
+Onslow	O
+but	O
+renamed	O
+shortly	O
+after	O
+being	O
+launched	O
+in	O
+1941	O
+.	O
+
+She	O
+was	O
+disabled	O
+in	O
+a	O
+night	O
+encounter	O
+off	O
+Marsala	B-LOC
+by	O
+Italian	O
+torpedo	O
+boats	O
+in	O
+1943	O
+and	O
+was	O
+scuttled	O
+the	O
+next	O
+day	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Order_of_New_Zealand
+
+The	O	X
+Order	O	X
+of	O	X
+New	O	X
+Zealand	O	X
+is	O
+the	O
+highest	O
+honour	O
+in	O
+New	B-LOC
+Zealand	I-LOC
+'s	O
+royal	O
+honours	O
+system	O
+,	O
+created	O
+"	O
+to	O
+recognise	O
+outstanding	O
+service	O
+to	O
+the	O
+Crown	O
+and	O
+people	O
+of	O
+New	B-LOC
+Zealand	I-LOC
+in	O
+a	O
+civil	O
+or	O
+military	O
+capacity	O
+"	O
+.	O
+
+It	O
+was	O
+instituted	O
+by	O
+royal	O
+warrant	O
+of	O
+6	O
+February	O
+1987	O
+.	O
+
+The	O
+order	O
+is	O
+modelled	O
+on	O
+the	O
+British	O
+Order	O
+of	O
+Merit	O
+and	O
+Order	O
+of	O
+the	O
+Companions	O
+of	O
+Honour	O
+.	O
+
+Honorary	O
+membership	O
+is	O
+for	O
+citizens	O
+of	O
+nations	O
+of	O
+which	O
+the	O
+Sovereign	O
+is	O
+not	O
+head	O
+of	O
+state	O
+.	O
+
+Members	O
+are	O
+entitled	O
+to	O
+the	O
+post-nominal	O
+letters	O
+"	O
+ONZ	O	X
+"	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Sugar_Gibiliru
+
+Sugar	B-PER	X
+Gibiliru	I-PER	X
+was	O
+unbeaten	O
+in	O
+his	O
+next	O
+four	O
+fights	O
+,	O
+setting	O
+up	O
+a	O
+challenge	O
+for	O
+Robert	B-PER
+Dickie	I-PER
+'s	O
+British	O
+title	O
+in	O
+April	O
+1991	O
+.	O
+
+Gibiliru	B-PER	X
+stopped	O
+Dickie	B-PER
+in	O
+the	O
+ninth	O
+round	O
+to	O
+become	O
+British	O
+champion	O
+.	O
+
+Sugar	B-PER	X
+lost	O
+the	O
+title	O
+in	O
+his	O
+first	O
+defence	O
+,	O
+losing	O
+on	O
+points	O
+to	O
+John	B-PER
+Doherty	I-PER
+in	O
+September	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Toni_Ti%C5%A1lar
+
+Tislar	B-PER	X
+won	O
+the	O
+Yugoslav	O
+Ice	O
+Hockey	O
+League	O
+title	O
+with	O
+HK	B-ORG
+Acroni	I-ORG
+Jesenice	I-ORG
+in	O
+1988	O
+and	O
+1989	O
+.	O
+
+He	O
+played	O
+with	O
+HDD	B-ORG
+Olimpija	I-ORG
+Ljubljana	I-ORG
+from	O
+1991	O
+–	O
+1995	O
+,	O
+HK	B-ORG
+MK	I-ORG
+Bled	I-ORG
+from	O
+1995	O
+–	O
+1997	O
+,	O
+and	O
+for	O
+2002	O
+–	O
+03	O
+.	O
+
+Tislar	B-PER	X
+participated	O
+in	O
+10	O
+IIHF	O
+World	O
+Championships	O
+with	O
+Yugoslavia	B-LOC
+and	O
+Slovenia	B-LOC
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Sadaaki_Akamatsu
+
+Sadaaki	B-PER	X
+Akamatsu	I-PER	X
+was	O
+credited	O
+with	O
+shooting	O
+down	O
+11	O
+enemy	O
+aircraft	O
+over	O
+China	B-LOC
+in	O
+the	O
+Second	O
+Sino	O
+-	O
+Japanese	O
+War	O
+,	O
+including	O
+four	O
+in	O
+a	O
+single	O
+engagement	O
+near	O
+Nanchang	B-LOC
+on	O
+25	O
+February	O
+1938	O
+.	O
+
+In	O
+the	O
+opening	O
+months	O
+of	O
+the	O
+Pacific	O
+War	O
+,	O
+Akamatsu	B-PER	X
+served	O
+in	O
+the	O
+Philippines	B-LOC
+and	O
+Dutch	B-LOC
+East	I-LOC
+Indies	I-LOC
+campaigns	O
+.	O
+
+From	O
+January	O
+1944	O
+until	O
+the	O
+end	O
+of	O
+the	O
+war	O
+,	O
+Akamatsu	B-PER	X
+flew	O
+out	O
+of	O
+Atsugi	B-LOC
+Air	I-LOC
+Base	I-LOC
+,	O
+defending	O
+Tokyo	B-LOC
+from	O
+Allied	O
+air	O
+attacks	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/The_Ruins_of_Adventure
+
+The	O
+Ruins	O
+of	O
+Adventure	O
+is	O
+the	O
+49th	O
+album	O
+by	O
+avant-folk	O
+Jandek	B-PER	X
+,	O
+the	O
+45th	O
+'	O
+studio	O
+'	O
+album	O
+released	O
+by	O
+Corwood	B-ORG
+Industries	I-ORG
+around	O
+December	O
+2006	O
+.	O
+
+The	O
+photograph	O
+used	O
+for	O
+the	O
+album	O
+'s	O
+front	O
+cover	O
+appears	O
+to	O
+be	O
+the	O
+same	O
+one	O
+used	O
+for	O
+Jandek	B-PER	X
+'s	O
+previous	O
+release	O
+What	O
+Else	O
+Does	O
+The	O
+Time	O
+Mean	O
+?	O
+,	O
+only	O
+instead	O
+cropped	O
+to	O
+the	O
+man	O
+'s	O
+face	O
+.	O
+
+After	O
+a	O
+few	O
+consecutive	O
+live	O
+releases	O
+,	O
+this	O
+album	O
+finds	O
+the	O
+artist	O
+back	O
+in	O
+a	O
+good	O
+sounding	O
+studio	O
+playing	O
+solo	O
+fretless	O
+bass	O
+and	O
+vocals	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Farrukhan_the_Great
+
+Farrukhan	B-PER	X
+the	I-PER	X
+Great	B-PER	X
+was	O
+the	O
+independent	O
+ruler	O
+(	O
+ispahbadh	O
+)	O
+of	O
+Tabaristan	B-LOC
+in	O
+the	O
+early	O
+8th	O
+century	O
+,	O
+until	O
+his	O
+death	O
+in	O
+728	O
+.	O
+
+Farrukhan	B-PER	X
+is	O
+the	O
+first	O
+actually	O
+attested	O
+member	O
+of	O
+the	O
+Dabuyid	O
+dynasty	O
+,	O
+which	O
+is	O
+traditionally	O
+held	O
+to	O
+have	O
+ruled	O
+Tabaristan	B-LOC
+since	O
+the	O
+time	O
+of	O
+the	O
+Muslim	O
+conquest	O
+of	O
+Persia	B-LOC
+.	O
+
+Farrukhan	B-PER	X
+maintained	O
+the	O
+independence	O
+against	O
+the	O
+attacks	O
+of	O
+the	O
+Umayyad	B-ORG
+Caliphate	I-ORG
+,	O
+and	O
+was	O
+succeeded	O
+by	O
+Dadhburzmihr	B-PER
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Nadir_Belhadj
+
+Nadir	B-PER	X
+Belhadj	I-PER	X
+played	O
+a	O
+vital	O
+role	O
+for	O
+Qatari	O
+club	O
+Al	B-ORG
+Sadd	I-ORG
+in	O
+the	O
+2011	O
+Asian	O
+Champions	O
+League	O
+final	O
+,	O
+by	O
+beating	O
+South	O
+Korean	O
+side	O
+Jeonbuk	B-ORG
+Hyundai	I-ORG
+Motors	I-ORG
+4	O
+–	O
+2	O
+in	O
+a	O
+penalty	O
+shoot	O
+-	O
+out	O
+.	O
+
+In	O
+January	O
+2007	O
+Belhadj	B-PER	X
+was	O
+bought	O
+by	O
+French	O
+champions	O
+Olympique	B-ORG
+Lyonnais	I-LOC
+for	O
+€	O
+3.24	O
+million	O
+and	O
+signed	O
+a	O
+lucrative	O
+four	O
+and	O
+a	O
+half-year	O
+deal	O
+.	O
+
+He	O
+was	O
+loaned	O
+back	O
+to	O
+CS	B-ORG
+Sedan	I-ORG
+until	O
+the	O
+end	O
+of	O
+the	O
+season	O
+and	O
+joined	O
+Lyon	B-ORG
+again	O
+in	O
+the	O
+summer	O
+of	O
+2007	O
+.	O
+
+On	O
+1	O
+September	O
+2008	O
+,	O
+it	O
+was	O
+announced	O
+that	O
+Portsmouth	B-ORG
+had	O
+signed	O
+Belhadj	B-PER	X
+on	O
+a	O
+season	O
+-	O
+long	O
+loan	O
+with	O
+an	O
+option	O
+to	O
+make	O
+the	O
+deal	O
+permanent	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Tennys_Sandgren
+
+Tennys	B-PER	X
+Sandgren	I-PER	X
+began	O
+his	O
+season	O
+with	O
+a	O
+first	O
+round	O
+loss	O
+to	O
+eventual	O
+champion	O
+Gilles	B-PER
+Simon	I-PER
+in	O
+Pune	O
+.	O
+
+Following	O
+a	O
+first	O
+round	O
+loss	O
+against	O
+Frances	B-PER
+Tiafoe	I-PER
+at	O
+the	O
+Estoril	O
+Open	O
+,	O
+Sandgren	B-PER	X
+suffered	O
+his	O
+fourth	O
+consecutive	O
+first	O
+round	O
+loss	O
+,	O
+losing	O
+in	O
+straight	O
+sets	O
+to	O
+Denis	B-PER
+Shapovalov	I-PER
+at	O
+the	O
+Madrid	O
+Open	O
+.	O
+
+After	O
+having	O
+reached	O
+the	O
+quarterfinals	O
+at	O
+the	O
+Geneva	O
+Open	O
+,	O
+Sandgren	B-PER	X
+was	O
+knocked	O
+out	O
+in	O
+the	O
+first	O
+round	O
+of	O
+the	O
+French	O
+Open	O
+by	O
+world	O
+No	O
+.	O
+177	O
+and	O
+qualifier	O
+Hubert	B-PER
+Hurkacz	I-PER
+.	O
+
+Sandgren	B-PER	X
+also	O
+lost	O
+in	O
+the	O
+first	O
+round	O
+of	O
+the	O
+doubles	O
+tournament	O
+in	O
+straight	O
+sets	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/1975_Ryder_Cup
+
+The	O
+21st	O
+Ryder	O
+Cup	O
+Matches	O
+were	O
+held	O
+September	O
+19	O
+–	O
+21	O
+at	O
+Laurel	B-ORG	X
+Valley	I-ORG	X
+Golf	I-ORG	X
+Club	I-ORG	X
+in	O
+Ligonier	B-LOC
+,	O
+Pennsylvania	B-LOC
+.	O
+
+The	O
+Ryder	O
+Cup	O
+is	O
+a	O
+match	O
+play	O
+event	O
+,	O
+with	O
+each	O
+match	O
+worth	O
+one	O
+point	O
+.	O
+
+The	O
+United	B-LOC
+States	I-LOC
+team	O
+won	O
+the	O
+competition	O
+by	O
+a	O
+score	O
+of	O
+21	O
+to	O
+11	O
+points	O
+.	O
+
+The	O
+next	O
+time	O
+the	O
+competition	O
+was	O
+held	O
+in	O
+the	O
+U.S.	B-LOC
+in	O
+1979	O
+,	O
+the	O
+visiting	O
+team	O
+included	O
+players	O
+from	O
+continental	O
+Europe	B-LOC
+.	O
+
+Laurel	B-ORG	X
+Valley	I-ORG	X
+was	O
+co-founded	O
+by	O
+U.S.	B-LOC
+captain	O
+Arnold	B-PER
+Palmer	I-PER
+and	O
+had	O
+hosted	O
+the	O
+PGA	O
+Championship	O
+a	O
+decade	O
+earlier	O
+,	O
+in	O
+1965	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Asleep_at_the_Wheel
+
+Asleep	B-ORG	X
+at	I-ORG	X
+the	I-ORG	X
+Wheel	I-ORG	X
+is	O
+an	O
+American	O
+country	O
+music	O
+group	O
+that	O
+was	O
+formed	O
+in	O
+Paw	B-LOC
+Paw	I-LOC
+,	O
+West	B-LOC
+Virginia	I-LOC
+and	O
+is	O
+based	O
+in	O
+Austin	B-LOC
+,	O
+Texas	B-LOC
+.	O
+
+The	O
+band	O
+has	O
+won	O
+nine	O
+Grammy	O
+Awards	O
+since	O
+their	O
+1970	O
+inception	O
+,	O
+released	O
+over	O
+twenty	O
+albums	O
+,	O
+and	O
+has	O
+charted	O
+more	O
+than	O
+21	O
+singles	O
+on	O
+the	O
+Billboard	O
+country	O
+charts	O
+.	O
+
+Asleep	B-ORG	X
+at	I-ORG	X
+the	I-ORG	X
+Wheel	I-ORG	X
+gathered	O
+a	O
+large	O
+amount	O
+of	O
+debt	O
+that	O
+required	O
+them	O
+to	O
+work	O
+on	O
+commercials	O
+and	O
+movie	O
+soundtracks	O
+.	O
+
+Asleeps	B-ORG	X
+produced	O
+the	O
+soundtrack	O
+for	O
+the	O
+film	O
+Liar	O
+'s	O
+Moon	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Jes%C3%BAs_Enrique_Rej%C3%B3n_Aguilar
+
+In	O
+1997	O
+,	O
+Jesús	B-PER	X
+Enrique	I-PER	X
+Rejón	I-PER	X
+Aguilar	I-PER	X
+was	O
+assigned	O
+to	O
+the	O
+Mexico	B-LOC
+’s	O
+Federal	B-ORG
+Attorney	I-ORG
+General	I-ORG
+'s	I-ORG
+Office	I-ORG
+(	O
+PGR	B-ORG
+)	O
+in	O
+the	O
+cities	O
+of	O
+Reynosa	B-LOC
+and	O
+Miguel	B-LOC
+Alemán	I-LOC
+in	O
+Tamaulipas	B-LOC
+.	O
+
+Rejón	B-PER	X
+Aguilar	I-PER	X
+is	O
+responsible	O
+for	O
+multi	O
+-	O
+ton	O
+shipments	O
+of	O
+marijuana	O
+and	O
+multi	O
+-	O
+kilogram	O
+shipments	O
+of	O
+cocaine	O
+from	O
+Mexico	B-LOC
+to	O
+the	O
+United	B-LOC
+States	I-LOC
+.	O
+
+In	O
+2004	O
+,	O
+Rejón	B-PER	X
+Aguilar	I-PER	X
+coordinated	O
+a	O
+failed	O
+raid	O
+on	O
+the	O
+maximum	O
+security	O
+prison	O
+'	O
+El	B-LOC
+Altiplano	I-LOC
+'	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/118th_J%C3%A4ger_Division_(Wehrmacht)
+
+The	O
+118th	B-ORG	X
+Jäger	I-ORG	X
+Division	I-ORG	X
+was	O
+a	O
+light	O
+infantry	O
+division	O
+of	O
+the	O
+German	B-ORG
+Army	I-ORG
+in	O
+World	O
+War	O
+II	O
+.	O
+
+It	O
+was	O
+formed	O
+in	O
+April	O
+1943	O
+,	O
+by	O
+the	O
+redesignation	O
+of	O
+the	O
+718th	B-ORG
+Infantry	I-ORG
+Division	I-ORG
+which	O
+had	O
+itself	O
+been	O
+formed	O
+in	O
+April	O
+1941	O
+.	O
+
+The	O
+118th	B-ORG	X
+Jäger	I-ORG	X
+was	O
+transferred	O
+to	O
+Yugoslavia	B-LOC
+in	O
+May	O
+1941	O
+,	O
+to	O
+conduct	O
+anti	O
+partisan	O
+and	O
+Internal	O
+security	O
+operations	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Douglas_Emlong
+
+Douglas	B-PER	X
+Ralph	I-PER	X
+Emlong	I-PER	X
+was	O
+an	O
+amateur	O
+fossil	O
+collector	O
+from	O
+the	O
+Oregon	B-LOC
+Coast	I-LOC
+in	O
+the	O
+northwestern	O
+United	B-LOC
+States	I-LOC
+.	O
+
+Emlong	B-PER	X
+'s	O
+collections	O
+contributed	O
+to	O
+the	O
+discovery	O
+and	O
+description	O
+of	O
+numerous	O
+extinct	O
+marine	O
+mammal	O
+species	O
+,	O
+many	O
+of	O
+which	O
+are	O
+ancestral	O
+to	O
+extant	O
+groups	O
+.	O
+
+Described	O
+as	O
+an	O
+'	O
+indefatigable	O
+'	O
+fossil	O
+collector	O
+with	O
+'	O
+Promethian	O
+prowess	O
+in	O
+discovery	O
+of	O
+unprecedented	O
+vertebrate	O
+fossils	O
+'	O
+,	O
+he	O
+contributed	O
+substantially	O
+to	O
+the	O
+field	O
+from	O
+the	O
+age	O
+of	O
+fourteen	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Tokaido_(company)
+
+In	O
+1958	O
+,	O
+Sugiura	B-PER	X
+established	O
+the	O
+Tokaido	B-ORG
+company	O
+.	O
+
+Its	O
+name	O
+means	O
+Eastern	O
+Sea	O
+Shop	O
+in	O
+Japanese	O
+,	O
+and	O
+comes	O
+from	O
+the	O
+name	O
+of	O
+Sugiura	B-PER	X
+'s	O
+home	O
+region	O
+on	O
+the	O
+east	O
+coast	O
+of	O
+Honshū	B-LOC
+island	O
+.	O
+
+Sugiura	B-PER	X
+began	O
+supplying	O
+sample	O
+uniforms	O
+to	O
+instructors	O
+of	O
+the	O
+newly	O
+formed	O
+Japan	B-ORG
+Karate	I-ORG
+Association	I-ORG
+(	O
+JKA	B-ORG
+)	O
+,	O
+and	O
+used	O
+their	O
+feedback	O
+to	O
+improve	O
+the	O
+designs	O
+and	O
+manufacturing	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Conyers,_Georgia
+
+Conyers	B-LOC	O	X
+is	O
+the	O
+only	O
+city	O
+in	O
+Rockdale	B-LOC	X
+County	I-LOC	X
+,	O
+Georgia	B-LOC	X
+,	O
+United	B-LOC	X
+States	I-LOC	X
+.	O
+
+The	O
+city	O
+is	O
+twenty	O
+-	O
+four	O
+miles	O
+(	O
+38.6	O
+km	O
+)	O
+east	O
+of	O
+Atlanta	B-LOC
+.	O
+
+Conyers	B-LOC	X
+was	O
+also	O
+home	O
+to	O
+"	O
+sidewalk	O
+churches	O
+"	O
+.	O
+
+At	O
+its	O
+peak	O
+,	O
+Milstead	B-LOC
+and	O
+Conyers	B-LOC	X
+had	O
+a	O
+private	O
+railroad	O
+which	O
+delivered	O
+products	O
+,	O
+such	O
+as	O
+cotton	O
+,	O
+from	O
+the	O
+mill	O
+to	O
+Conyers	B-LOC	X
+for	O
+shipping	O
+to	O
+the	O
+textile	O
+mills	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Idris_Elba
+
+Idrissa	B-PER	X
+Akuna	I-PER	X
+Elba	I-PER	X
+OBE	O
+(	O
+/	O
+ˈ	O
+ɪdrɪs	O
+ˈ	O
+ɛlbə	O
+/	O
+;	O
+born	O
+6	O
+September	O
+1972	O
+)	O
+is	O
+an	O
+English	O
+actor	O
+,	O
+producer	O
+, 	O
+musician	O
+and	O
+DJ	O
+,	O
+known	O
+for	O
+playing	O
+drug	O
+trafficker	O
+Stringer	B-PER
+Bell	I-PER
+on	O
+the	O
+HBO	B-ORG
+series	O
+The	O
+Wire	O
+,	O
+DCI	O
+John	B-PER
+Luther	I-PER
+on	O
+the	O
+BBC	O
+One	O
+series	O
+Luther	B-PER
+and	O
+Nelson	B-PER
+Mandela	I-PER
+in	O
+the	O
+biographical	O
+film	O
+Mandela	B-PER
+:	O
+Long	O
+Walk	O
+to	O
+Freedom	O
+(	O
+2013	O
+)	O
+.	O
+
+He	O
+has	O
+been	O
+nominated	O
+four	O
+times	O
+for	O
+a	O
+Golden	O
+Globe	O
+Award	O
+for	O
+Best	O
+Actor	O
+–	O
+Miniseries	O
+or	O
+Television	O
+Film	O
+,	O
+winning	O
+one	O
+and	O
+was	O
+nominated	O
+five	O
+times	O
+for	O
+a	O
+Primetime	O
+Emmy	O
+Award	O
+.	O
+
+Elba	B-PER	X
+appeared	O
+in	O
+Ridley	B-PER
+Scott	I-PER
+'s	O
+American	O
+Gangster	O
+(	O
+2007	O
+)	O
+and	O
+Prometheus	O
+(	O
+2012	O
+)	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Napoleon,_Ohio
+
+Napoleon	B-LOC
+'s	O
+economy 	O
+is 	O
+based 	O
+on 	O
+the 	O
+manufacturing 	O
+of 	O
+a 	O
+variety 	O
+of 	O
+goods	O
+. 	O
+
+A 	O
+major 	O
+employer 	O
+is	O
+the	O
+world	O
+'s	O
+largest 	O
+Campbell	B-ORG
+'s	I-ORG
+Soup	I-ORG
+Company	I-ORG
+plant	O
+,	O
+located	O
+on	O
+the	O
+southeastern	O
+end	O
+of	O
+the	O
+city	O
+;	O
+also	O
+Tenneco	B-ORG
+owns	O
+one	O
+their	O
+largest	O
+Elastomer	O
+Plants	O
+there	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Gorki_(band)
+
+Gorki	B-ORG	X
+was	O
+a	O
+Belgian	O
+rock	O
+group	O
+,	O
+in	O
+its	O
+most	O
+recent	O
+line-up	O
+consisting	O
+of	O
+Luc	B-PER
+De	I-PER
+Vos	I-PER
+(	O
+lead	O
+singer	O
+and	O
+guitarist	O
+)	O
+,	O
+Luc	B-PER
+Heyvaerts	I-PER
+(	O
+keyboard	O
+and	O
+clarinet	O
+)	O
+,	O
+Erik	B-PER
+Van	I-PER
+Biesen	I-PER
+(	O
+bass	O
+guitar	O
+)	O
+,	O
+Thomas	B-PER
+Vanelslander	I-PER
+(	O
+guitarist	O
+)	O
+and	O
+Bert	B-PER
+Huysentruyt	I-PER
+(	O
+drums	O
+)	O
+.	O
+
+Three	O
+songs	O
+by	O
+Gorki	B-ORG	X
+were	O
+number	O
+one	O
+hits	O
+in	O
+the	O
+Studio	B-ORG
+Brussel	I-ORG
+alternative	O
+hitlist	O
+De	O
+Afrekening	O
+in	O
+Belgium	B-LOC
+:	O
+'	O
+Lieve	O
+kleine	O
+piranha	O
+'	O
+(	O
+Gorky	B-ORG	X
+,	O
+1992	O
+)	O
+,	O
+Schaduw	O
+in	O
+de	O
+schemering	O
+(	O
+from	O
+the	O
+CD	O
+'	O
+Plan	O
+B	O
+'	O
+)	O
+and 	O
+'	O
+Joerie	O
+'	O
+in	O
+2006	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/The_Rice_School
+
+Students	O
+living	O
+near	O
+Rice	B-ORG	X
+are	O
+not	O
+zoned	O
+to	O
+Rice	B-ORG	X
+,	O
+as	O
+Rice	B-ORG	X
+is	O
+an	O
+all-magnet	O
+school	O
+.	O
+
+Individuals	O
+living	O
+near	O
+Rice	B-ORG	X
+are	O
+zoned	O
+to	O
+either	O
+Twain	B-ORG
+or	O
+Roberts	B-ORG
+elementary	O
+schools	O
+and	O
+Pershing	B-ORG
+Middle	I-ORG
+School	I-ORG
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Sennett,_New_York
+
+According	O
+to	O
+the	O
+United	B-ORG
+States	I-ORG
+Census	I-ORG
+Bureau	I-ORG
+,	O
+the	O
+town	O
+has	O
+a	O
+total	O
+area	O
+of	O
+28.8	O
+square	O
+miles	O
+(	O
+74.7	O
+km2	O
+)	O
+,	O
+of	O
+which	O
+0.023	O
+square	O
+miles	O
+(	O
+0.06	O
+km2	O
+)	O
+,	O
+or	O
+0.08%	O
+,	O
+is	O
+water	O
+.	O
+
+The	O
+east	O
+town	O
+line	O
+is	O
+the	O
+border	O
+of	O
+Onondaga	B-LOC
+County	I-LOC
+.	O
+
+Sennett	B-LOC	X
+is	O
+in	O
+the	O
+Finger	B-LOC
+Lakes	I-LOC
+region	O
+,	O
+being	O
+near	O
+the	O
+north	O
+end	O
+of	O
+Owasco	B-LOC
+Lake	I-LOC
+and	O
+Skaneateles	B-LOC
+Lake	I-LOC
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Kickers_Offenbach
+
+However	O
+,	O
+the	O
+end	O
+of	O
+the	O
+1971	O
+season	O
+would	O
+find	O
+Kickers	B-ORG	X
+Offenbach	I-ORG	X
+at	O
+the	O
+centre	O
+of	O
+the	O
+Bundesliga	O
+scandal	O
+.	O
+
+The	O
+club	O
+president	O
+,	O
+Horst-Gregorio	B-PER
+Canellas	I-PER
+,	O
+went	O
+to	O
+the	O
+German	B-ORG
+Football	I-ORG
+Association	I-ORG
+(	O
+Deutsche	B-ORG
+Fussball	I-ORG
+Bund	I-ORG
+or	O
+German	B-ORG
+Football	I-ORG
+Association	I-ORG
+)	O
+after	O
+being	O
+approached	O
+by	O
+a	O
+player	O
+from	O
+another	O
+team	O
+looking	O
+for	O
+a	O
+cash	O
+bonus	O
+for	O
+that	O
+club	O
+'s	O
+effort	O
+in	O
+beating	O
+one	O
+of	O
+Offenbach	B-ORG	X
+'s	O
+rivals	O
+in	O
+the	O
+fight	O
+against	O
+relegation	O
+.	O
+
+Receiving	O
+no	O
+help	O
+from	O
+league	O
+officials	O
+,	O
+Canellas	B-PER
+began	O
+gathering	O
+evidence	O
+of	O
+how	O
+widespread	O
+the	O
+payoffs	O
+were	O
+.	O
+
+In	O
+the	O
+end	O
+more	O
+than	O
+fifty	O
+players	O
+from	O
+seven	O
+clubs	O
+,	O
+two	O
+coaches	O
+,	O
+and	O
+siX
+game	O
+officials	O
+were	O
+found	O
+guilty	O
+of	O
+trying	O
+to	O
+influence	O
+the	O
+outcome	O
+of	O
+games	O
+through	O
+bribes	O
+,	O
+but	O
+Canellas	B-PER
+was	O
+unable	O
+to	O
+save	O
+his	O
+club	O
+from	O
+relegation	O
+.	O
+
+The	O
+club	O
+central	O
+to	O
+the	O
+scandal	O
+–	O
+Arminia	B-ORG
+Bielefeld	I-ORG
+–	O
+would	O
+not	O
+be	O
+punished	O
+until	O
+the	O
+following	O
+season	O
+,	O
+too	O
+late	O
+to	O
+save	O
+Offenbach	B-ORG	X
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Freddie_Mercury
+
+After	O
+completing	O
+the	O
+penultimate	O
+verse	O
+,	O
+Mercury	B-PER	X
+had	O
+told	O
+the	O
+band	O
+he	O
+"	O
+was	O
+n't	O
+feeling	O
+that	O
+great	O
+"	O
+and	O
+stated	O
+,	O
+"	O
+I	O
+will	O
+finish	O
+it	O
+when	O
+I	O
+come	O
+back	O
+,	O
+next	O
+time	O
+”	O
+.	O
+
+However	O
+,	O
+he	O
+never	O
+made	O
+it	O
+back	O
+into	O
+the	O
+studio	O
+,	O
+so	O
+May	B-PER
+later	O
+recorded	O
+the	O
+final	O
+verse	O
+of	O
+the	O
+song	O
+.	O
+
+Tributes	O
+
+A 	O
+statue	O
+in	O
+Montreux	B-LOC
+,	O
+Switzerland	B-LOC
+,	O
+by	O
+sculptor	O
+Irena	B-PER
+Sedlecká	I-PER
+,	O
+was	O
+erected	O
+as	O
+a	O
+tribute	O
+to	O
+Mercury	B-PER	X
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Lemon_(developer)
+
+Lemon	B-ORG	X
+was	O
+a	O
+video	O
+game	O
+developer	O
+founded	O
+in	O
+1994	O
+by	O
+Søren	B-PER
+Hannibal	I-PER
+and	O
+Jacob	B-PER
+Andersen	I-PER
+,	O
+who	O
+had	O
+previously	O
+been	O
+members	O
+of	O
+a	O
+demoscene	O
+group	O
+of	O
+the	O
+same	O
+name	O
+.	O
+
+Lemon	B-ORG	X
+created	O
+the	O
+voxel-based	O
+3D	O
+shooter	O
+Amok	O
+,	O
+for	O
+Sega	O
+Saturn	O
+and	O
+PC	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Birch_Communications
+
+Birch	B-ORG	X
+had	O
+1,400	O
+employees	O
+in	O
+2014	O
+,	O
+with	O
+around	O
+450	O
+people	O
+working	O
+out	O
+of	O
+the	O
+company	O
+'s	O
+Atlanta	B-LOC
+Operations	I-LOC
+Center	I-LOC
+as	O
+of	O
+2016	O
+.	O
+
+Community	O
+involvement	O
+
+Birch	B-ORG	X
+has	O
+been	O
+involved	O
+in	O
+various	O
+philanthropic	O
+efforts	O
+and	O
+community	O
+projects	O
+,	O
+including	O
+donating	O
+toys	O
+and	O
+funds	O
+to	O
+the	O
+non-profit	O
+organization	O
+Kids	B-ORG
+Yule	I-ORG
+Love	I-ORG
+in	O
+2011	O
+,	O
+co-sponsoring	O
+the	O
+International	O
+Cherry	O
+Blossom	O
+Festival	O
+in	O
+2013	O
+,	O
+and	O
+donating	O
+funds	O
+to	O
+Atlanta	B-LOC
+'s	O
+Woodruff	B-ORG
+Arts	I-ORG
+Center	I-ORG
+in	O
+2014	O
+.	O
+
+Birch	B-ORG	X
+invested	O
+in	O
+Macon	B-ORG
+Charter	I-ORG
+Academy	I-ORG
+in	O
+August	O
+2015	O
+,	O
+donating	O
+funds	O
+,	O
+computer	O
+equipment	O
+,	O
+and	O
+furniture	O
+to	O
+the	O
+Georgia	B-LOC
+charter	O
+school	O
+and	O
+serving	O
+as	O
+a	O
+technology	O
+constultant	O
+during	O
+construction.	O
+
+
+In	O
+February	O
+2016	O
+,	O
+Birch	B-ORG	X
+donated	O
+PCs	O
+and	O
+laptops	O
+to	O
+the	O
+Metro	B-ORG
+Atlanta	I-ORG
+Task	I-ORG
+Force	I-ORG
+for	I-ORG
+the	I-ORG
+Homeless	I-ORG
+to	O
+be	O
+used	O
+for	O
+job-training	O
+at	O
+the	O
+Peachtree-Pine	B-ORG
+shelter.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Milton_College
+
+Milton	B-ORG	X
+College	I-ORG
+had	O
+,	O
+in	O
+fact	O
+,	O
+been	O
+struggling	O
+financially	O
+since	O
+the	O
+Great	O
+Depression	O
+,	O
+50	O
+years	O
+earlier	O
+.	O
+
+Without	O
+accreditation	O
+,	O
+the	O
+college	O
+would	O
+not	O
+have	O
+seen	O
+any	O
+federal	O
+loans	O
+or	O
+grants	O
+,	O
+adding	O
+to	O
+an	O
+already	O
+difficult	O
+situation	O
+of	O
+decreasing	O
+student	O
+enrollment	O
+.	O
+
+Furthermore	O
+,	O
+it	O
+would	O
+have	O
+no	O
+longer	O
+been	O
+able	O
+to	O
+compete	O
+with	O
+schools	O
+in	O
+the	O
+Wisconsin	B-LOC
+State	I-LOC
+University	O
+System	O
+.	O
+
+Some	O
+135	O
+students	O
+had	O
+been	O
+planning	O
+to	O
+come	O
+back	O
+to	O
+campus	O
+when	O
+the	O
+school	O
+closed	O
+,	O
+many	O
+with	O
+only	O
+a	O
+few	O
+credits	O
+left	O
+until	O
+completion	O
+of	O
+their	O
+studies	O
+.	O
+
+Officials	O
+negotiated	O
+with	O
+other	O
+campuses	O
+to	O
+accept	O
+Milton	B-ORG	X
+students	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Obsidian_Entertainment
+
+Their	O
+idea	O
+was	O
+rejected	O
+,	O
+and	O
+Jeffrey	B-PER
+instead	O
+asked	O
+Obsidian	B-ORG	X
+to	O
+create	O
+a	O
+follow-up	O
+to	O
+the	O
+BioWare	B-ORG
+-	O
+developed	O
+Star	O
+Wars	O
+:	O
+Knights	O
+of	O
+the	O
+Old	O
+Republic	O
+,	O
+as	O
+the	O
+team	O
+at	O
+Obsidian	B-ORG	X
+was	O
+familiar	O
+with	O
+the	O
+technology	O
+that	O
+the	O
+original	O
+game	O
+used	O
+.	O
+
+The	O
+partnership	O
+between	O
+the	O
+two	O
+companies	O
+finalized	O
+in	O
+late	O
+2003	O
+,	O
+and	O
+development	O
+of	O
+the	O
+game	O
+,	O
+which	O
+became	O
+Star	O
+Wars	O
+Knights	O
+of	O
+the	O
+Old	O
+Republic	O
+II	O
+:	O
+The	O
+Sith	O
+Lords	O
+,	O
+began	O
+in	O
+October	O
+2003	O
+.	O
+
+Obsidian	B-ORG	X
+was	O
+given	O
+15	O
+months	O
+to	O
+develop	O
+The	O
+Sith	O
+Lords	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Brooks_England
+
+In	O
+a	O
+2014	O
+interview	O
+with	O
+Feel	B-ORG
+Desain	I-ORG
+,	O
+a	O
+Brooks	B-ORG	X
+spokesperson	O
+stated	O
+that	O
+according	O
+to	O
+family	O
+legend	O
+,	O
+the	O
+company	O
+began	O
+when	O
+founder	O
+John	B-PER 	O
+Boultbee	I-PER 	O
+Brooks	I-PER
+,	O
+a	O
+horse	O
+saddle	O
+manufacturer	O
+,	O
+tried	O
+to	O
+use	O
+a	O
+bicycle	O
+after	O
+his	O
+horse	O
+died	O
+but	O
+found	O
+the	O
+wooden	O
+seat	O
+very	O
+uncomfortable	O
+.	O
+
+As	O
+a	O
+result	O
+,	O
+he	O
+vowed	O
+to	O
+set	O
+about	O
+solving	O
+this	O
+problem	O
+and	O
+Brooks	B-ORG	X
+was	O
+born	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Downton,_Wiltshire
+
+Nunton	B-LOC
+(	O
+with	O
+Bodenham	B-LOC
+)	O
+and	O
+Standlynch	B-LOC
+became	O
+civil	O
+parishes	O
+in 	O
+the	O
+19th	O
+century	O
+,	O
+then	O
+as	O
+the	O
+population	O
+grew	O
+and	O
+churches	O
+were	O
+built	O
+,	O
+Downton	B-LOC	X
+was	O
+reduced	O
+in	O
+size	O
+.	O
+
+In	O
+1896	O
+its	O
+eastern	O
+part	O
+became	O
+Redlynch	B-LOC
+civil	O
+parish	O
+,	O
+in	O
+1897	O
+Charlton	B-LOC
+and	O
+Witherington	B-LOC
+were	O
+united	O
+with	O
+Standlynch	B-LOC
+to	O
+form	O
+the	O
+civil	O
+parish	O
+of	O
+Standlynch	B-LOC
+with	O
+Charlton	B-LOC
+All	I-LOC
+Saints	I-LOC
+,	O
+and	O
+in	O
+1923	O
+Morgan	B-LOC
+'s	I-LOC
+Vale	I-LOC
+and	O
+Woodfalls	I-LOC
+were	O
+taken	O
+to	O
+form	O
+a	O
+new	O
+civil	O
+parish	O
+.	O
+
+Finally	O
+,	O
+in	O
+1934	O
+Standlynch	B-LOC
+and	O
+Charlton	B-LOC
+were	O
+reunited	O
+with	O
+Downton	B-LOC	X,	O
+and	O
+Morgan	B-LOC
+'s	I-LOC
+Vale	I-LOC
+and	O
+Woodfalls	B-LOC
+were	O
+added	O
+to	O
+Redlynch	B-LOC
+.	O
+
+For	O
+about	O
+a	O
+decade	O
+from	O
+around	O
+1961	O
+,	O
+Downton	B-LOC	X
+had	O
+an	O
+important	O
+part	O
+to	O
+play	O
+in	O
+British	O
+motorsport	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Decima_gallery
+
+At	O
+this	O
+time	O
+,	O
+the	O
+artist	O
+Derrick	B-PER
+Welsh	I-PER
+was	O
+represented	O
+by	O
+and	O
+closely	O
+affiliated	O
+to	O
+Decima	B-ORG	X
+.	O
+
+In	O
+April	O
+1999	O
+,	O
+Decima	B-ORG	X
+attempted	O
+to	O
+cause	O
+another	O
+splash	O
+with	O
+a	O
+show	O
+entitled	O
+"	O
+Was	O
+Jesus	B-PER
+a	O
+Homosexual	O
+?	O
+"	O
+which	O
+was	O
+organised	O
+in	O
+conjunction	O
+with	O
+political	O
+philosopher	O
+Richard	B-PER
+Morley	I-PER
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Getty_Images
+
+Beginning	O
+in	O
+2008	O
+, 	O
+Getty	B-ORG	X
+Images	I-ORG	X
+has	O
+created	O
+controversy	O
+for	O
+its	O
+methods	O
+of	O
+pursuing	O
+copyright	O
+enforcement	O
+on	O
+behalf	O
+of	O
+its	O
+photographers	O
+.	O
+
+Rather	O
+than	O
+pursue	O
+a	O
+policy	O
+of	O
+sending	O
+"	O
+cease	O
+and	O
+desist	O
+"	O
+notices	O
+,	O
+Getty	B-ORG	X
+typically	O
+mails	O
+a	O
+demand	O
+letter	O
+that	O
+claims	O
+substantial	O
+monetary	O
+damages	O
+from	O
+owners	O
+of	O
+websites	O
+it	O
+believes	O
+infringed	O
+on	O
+their	O
+photographers	O
+'	O
+copyrights	O
+.	O
+
+Getty	B-ORG	X
+commonly	O
+tries	O
+to	O
+intimidate	O
+website	O
+owners	O
+by	O
+sending	O
+collection	O
+agents	O
+,	O
+even	O
+though	O
+a	O
+demand	O
+letter	O
+does	O
+not	O
+create	O
+a	O
+debt	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Hess_Educational_Organization
+
+HESS	B-ORG	X
+International	I-ORG	X
+Educational	I-ORG	X
+Group	I-ORG	X 	O
+(	O
+Traditional	O
+Chinese	O
+:	O
+何嘉仁國際文教團隊	B-ORG	X
+;	O
+Pinyin	O
+:	O
+Héjiārén	B-ORG	X
+Wénjiào	I-ORG	X
+Jīgòu	I-ORG	X
+)	O
+is	O
+the	O
+single	O
+largest	O
+private	O
+provider	O
+of	O
+English	O
+education	O
+in	O
+Taiwan	B-LOC
+.	O
+
+Hess	B-ORG	X
+has	O
+an	O
+estimated	O
+60,000	O
+students	O
+enrolled	O
+.	O
+
+Founded	O
+in	O
+1983	O
+by	O
+Joseph	B-PER
+Chu	I-PER
+and	O
+Karen	B-PER
+Hess	I-PER
+,	O
+it	O
+has	O
+become	O
+a	O
+large	O
+business	O
+,	O
+with	O
+schools	O
+across	O
+the	O
+island	O
+.	O
+
+Hess	B-ORG	X
+also	O
+provides	O
+books	O
+and	O
+resources	O
+to	O
+other	O
+English	O
+schools	O
+across	O
+Asia	B-LOC
+to	O
+teach	O
+English	O
+as	O
+a	O
+foreign	O
+language	O
+,	O
+and	O
+has	O
+a	O
+chain	O
+of	O
+bookstores	O
+,	O
+which	O
+was	O
+founded	O
+in	O
+1990	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Jewel_(singer)
+
+Jewel	B-PER	X
+recently	O
+founded	O
+Jewel	B-ORG
+Inc.	I-ORG
+,	O
+which	O
+is	O
+a	O
+platform	O
+for	O
+all	O
+of	O
+her	O
+passions	O
+and	O
+work	O
+in	O
+music	O
+,	O
+tv	O
+,	O
+film	O
+and	O
+entrepreneurial	O
+endeavors	O
+.	O
+
+Jewel	B-PER	X
+is	O
+creating	O
+human	O
+development	O
+,	O
+education	O
+and	O
+mindfulness	O
+tools	O
+for	O
+individuals	O
+by	O
+collaborating	O
+with	O
+school	O
+districts	O
+,	O
+corporations	O
+and	O
+consumers	O
+,	O
+in	O
+hopes	O
+of	O
+helping	O
+more	O
+people	O
+to	O
+become	O
+WHOLE	O
+HUMANS	O
+.	O
+
+To	O
+this	O
+end	O
+she	O
+is	O
+partnering	O
+with	O
+one	O
+of	O
+the	O
+worlds	O
+most	O
+innovative	O
+companies	O
+(	O
+Zappos	B-ORG
+)	O
+and	O
+entrepreneurs	O
+(	O
+Tony	B-PER
+Hsieh	I-PER
+)	O
+to	O
+help	O
+deliver	O
+happiness	O
+into	O
+people	O
+'s	O
+every	O
+day	O
+lives	O
+,	O
+at	O
+work	O
+and	O
+at	O
+home	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Kennedy,_Wisconsin
+
+Spur	O
+lines	O
+were	O
+built	O
+from	O
+Kennedy	B-LOC	X
+to	O
+seven	O
+logging	O
+camps	O
+to	O
+the	O
+north	O
+,	O
+near	O
+the	O
+Ashland	B-LOC
+County	I-LOC
+border	O
+.	O
+
+In	O
+1908	O
+,	O
+Willard	B-PER
+Walther	I-PER
+developed	O
+the	O
+plat	O
+for	O
+the	O
+new	O
+community	O
+.	O
+
+The	O
+village	O
+grew	O
+as	O
+the	O
+logging	O
+operations	O
+drew	O
+more	O
+workers	O
+,	O
+and	O
+the	O
+cut-over	O
+land	O
+was	O
+settled	O
+.	O
+
+A	O
+log	O
+schoolhouse	O
+was	O
+the	O
+first	O
+building	O
+built	O
+,	O
+located	O
+on	O
+the	O
+west	O
+side	O
+of	O
+the	O
+settlement	O
+.	O
+
+Taverns	O
+,	O
+a	O
+boarding	O
+house	O
+,	O
+general	O
+store	O
+,	O
+and	O
+a	O
+train	O
+station	O
+also	O
+soon	O
+appeared	O
+.	O
+
+A	O
+frame	O
+schoolhouse	O
+and	O
+post	O
+Office	O
+were	O
+built	O
+in	O
+1911	O
+.	O
+
+In	O
+time	O
+,	O
+Kennedy	B-LOC	X
+had	O
+some	O
+basic	O
+businesses	O
+,	O
+including	O
+a	O
+hotel	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Loyola_Academy
+
+In	O
+2003	O
+,	O
+Loyola	B-ORG	X
+Academy	I-ORG	X
+opened	O
+a	O
+new	O
+60-acre	O
+(	O
+240,000	O
+m2	O
+)	O
+campus	O
+in	O
+Glenview	B-LOC
+,	O
+Illinois	B-LOC
+.	O
+
+The	O
+property	O
+,	O
+once	O
+part	O
+of	O
+the	O
+decommissioned	O
+Glenview	B-LOC
+Naval	I-LOC
+Air	I-LOC
+Station	I-LOC
+(	O
+NAS	B-LOC
+Glenview	I-LOC
+)	O
+,	O
+was	O
+purchased	O
+by	O
+Loyola	B-ORG	X
+in	O
+2001	O
+and	O
+now	O
+houses	O
+several	O
+athletic	O
+fields	O
+for	O
+lacrosse	O
+,	O
+baseball	O
+,	O
+softball	O
+,	O
+and	O
+soccer	O
+,	O
+a	O
+cross	O
+country	O
+path	O
+,	O
+and	O
+a	O
+wetland	O
+preserve	O
+area	O
+that	O
+has	O
+been	O
+used	O
+as	O
+a	O
+natural	O
+laboratory	O
+for	O
+science	O
+classes	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Pakenham,_Victoria
+
+Pakenham	B-LOC	X
+has	O
+become	O
+a	O
+major	O
+growth	O
+area	O
+in	O
+south-eastern	O
+Melbourne	B-LOC
+as	O
+new	O
+housing	O
+developments	O
+have	O
+boosted	O
+its	O
+population	O
+and	O
+infrastructure	O
+,	O
+as	O
+exemplified	O
+in	O
+the	O
+development	O
+of	O
+the	O
+Lakeside	B-LOC
+,	O
+Heritage	B-LOC
+Springs	I-LOC
+&	O
+Cardinia	B-LOC
+Lakes	I-LOC
+estates	O
+.	O
+
+History	O
+
+Pakenham	B-LOC	X
+was	O
+named	O
+after	O
+Sir	O
+Edward	B-PER
+Pakenham	I-PER
+,	O
+a	O
+British	O
+general	O
+who	O
+fought	O
+in	O
+the	O
+Peninsular	O
+War	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Penrose,_Cornwall
+
+The	O
+estate	O
+grew	O
+as	O
+a	O
+result	O
+of	O
+various	O
+grants	O
+of	O
+land	O
+and	O
+inheritances	O
+some	O
+of	O
+which	O
+resulted	O
+from	O
+marriages	O
+linking	O
+the	O
+Penroses	B-PER
+with	O
+other	O
+leading	O
+Cornish	O
+families	O
+including	O
+:	O
+St	B-PER
+Aubyn	I-PER
+,	O
+Tremayne	B-PER
+,	O
+Methele	B-PER
+,	O
+Erissey	B-PER
+,	O
+Killigrew	B-PER
+and	O
+Rashleigh	B-PER
+.	O
+
+Between	O
+1750	O
+and	O
+1770	O
+Penrose	B-LOC	X
+was	O
+bought	O
+by	O
+Hugh	B-PER
+Rogers	I-PER
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Chanel
+
+The	B-ORG	X
+House	I-ORG	X
+of	I-ORG	X
+Chanel	I-ORG
+is	O
+known	O
+for	O
+the	O
+"	O
+little	O
+black	O
+dress	O
+"	O
+,	O
+the	O
+perfume	O
+No	O
+.	O
+5	O
+de	O
+Chanel	O	X
+,	O
+and	O
+the	O
+Chanel	O	X
+Suit	O
+.	O
+
+Chanel	B-ORG	X
+'s	O
+use	O
+of	O
+jersey	O
+fabric	O
+produced	O
+garments	O
+that	O
+were	O
+comfortable	O
+and	O
+affordable	O
+.	O
+
+Chanel	B-ORG	X
+revolutionized	O
+fashion	O
+—	O
+high	O
+fashion	O
+(	O
+haute	O
+couture	O
+)	O
+and	O
+everyday	O
+fashion	O
+(	O
+prêt-à-porter	O
+)	O
+—	O
+by	O
+replacing	O
+structured-silhouettes	O
+,	O
+based	O
+upon	O
+the	O
+corset	O
+and	O
+the	O
+bodice	O
+,	O
+with	O
+garments	O
+that	O
+were	O
+functional	O
+and	O
+at	O
+the	O
+same	O
+time	O
+flattering	O
+to	O
+the	O
+woman	O
+'s	O
+figure	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/R._J._Reynolds_Tobacco_Company
+
+Five	O
+of	O
+the	O
+company	O
+'s	O
+brands	O
+are	O
+among	O
+the	O
+top	O
+ten	O
+best	O
+selling	O
+cigarette	O
+brands	O
+in	O
+the	O
+United	B-LOC
+States	I-LOC
+,	O
+and	O
+it	O
+is	O
+estimated	O
+that	O
+one	O
+in	O
+three	O
+cigarettes	O
+sold	O
+in	O
+the	O
+country	O
+were	O
+manufactured	O
+by	O
+R.	B-ORG	X
+J.	I-ORG	X
+Reynolds	I-ORG	X
+Tobacco	I-ORG	X
+Company	I-ORG	X
+.	O
+
+In	O
+2010	O
+R.	B-ORG	X
+J.	I-ORG	X
+Reynolds	I-ORG	X
+acquired	O
+the	O
+rights	O
+to	O
+the	O
+smokeless	O
+tobacco	O
+products	O
+Kodiak	O
+and	O
+Grizzly	O
+dip	O
+.	O
+
+Uptown	O
+
+In	O
+1990	O
+,	O
+RJ	B-ORG
+Reynolds	I-ORG	X
+planned	O
+to	O
+launch	O
+a	O
+new	O
+cigarette	O
+brand	O
+called	O
+Uptown	O
+,	O
+aimed	O
+primarily	O
+at	O
+African-Americans	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Cambridge_Audio
+
+The	O
+business	O
+was	O
+relaunched	O
+as	O
+Cambridge	B-ORG	X
+Audio	I-ORG	X
+Research	I-ORG	X
+Ltd.	I-ORG	X
+with	O
+former	O
+technical	O
+director	O
+Stan	B-PER
+Curtis	I-PER
+charged	O
+with	O
+designing	O
+a	O
+new	O
+line	O
+of	O
+products	O
+.	O
+
+The	O
+new	O
+range	O
+had	O
+styling	O
+echoes	O
+of	O
+the	O
+original	O
+Cambridge	B-ORG	X
+products	O
+,	O
+but	O
+broke	O
+with	O
+tradition	O
+by	O
+being	O
+physically	O
+larger	O
+,	O
+starting	O
+with	O
+the	O
+P35	O
+integrated	O
+amplifier	O
+launched	O
+in	O
+1983	O
+,	O
+closely	O
+followed	O
+by	O
+the	O
+C75	O
+preamplifier	O
+and	O
+A75	O
+power	O
+amplifier	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/The_Wellington_School
+
+Wellington	B-ORG	X
+was	O
+also	O
+named	O
+Best	O
+Private	O
+School	O
+in	O
+the	O
+Best	O
+of	O
+Business	O
+poll	O
+by	O
+Columbus	B-ORG
+CEO	I-ORG
+magazine	O
+in	O
+2015	O
+and	O
+2016	O
+.	O
+
+Head	O
+of	O
+School	O
+Robert	B-PER
+Brisk	I-PER
+presented	O
+at	O
+TEDxColumbus	O
+on	O
+the	O
+topic	O
+of	O
+student	O
+engagement	O
+in	O
+2016	O
+.	O
+
+Campus	O
+
+Wellington	B-ORG	X
+is	O
+located	O
+at	O
+the	O
+corner	O
+of	O
+Fishinger	B-LOC
+and	O
+Reed	B-LOC
+Roads	I-LOC
+in	O
+the	O
+center	O
+of	O
+Upper	B-LOC
+Arlington	I-LOC
+,	O
+Ohio	B-LOC
+approximately	O
+8	O
+miles	O
+from	O
+downtown	O
+Columbus	B-LOC
+,	O
+Ohio	B-LOC
+.
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/1958_Portuguese_presidential_election
+
+The	B-ORG
+National	I-ORG
+Union	I-ORG
+,	O
+the	O
+sole	O
+legal	O
+political	O
+party	O
+levied	O
+naval	O
+minister	O
+Américo	B-PER
+Thomaz	I-PER
+,	O
+a	O
+conservative	O
+.	O
+
+The	O
+democratic	O
+opposition	O
+backed	O
+General	O
+Humberto	B-PER	X
+Delgado	I-PER	X
+,	O
+who	O
+ran	O
+as	O
+an	O
+independent	O
+in	O
+an	O
+attempt	O
+to	O
+challenge	O
+the	O
+regime	O
+.	O
+
+The	O
+official	O
+tally	O
+was	O
+76.4	O
+percent	O
+for	O
+Thomaz	B-PER
+and	O
+about	O
+24	O
+percent	O
+for	O
+Delgado	B-PER	X
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/The_Left_(Germany)
+
+The	B-ORG	X
+Left	I-ORG	X
+aims	O
+for	O
+democratic	O
+socialism	O
+in	O
+order	O
+to	O
+overcome	O
+capitalism	O
+.	O
+
+As	O
+a	O
+platform	O
+for	O
+left	O
+politics	O
+in	O
+the	O
+wake	O
+of	O
+globalization	O
+,	O
+The	B-ORG	X
+Left	I-ORG	X
+includes	O
+many	O
+different	O
+factions	O
+,	O
+ranging	O
+from	O
+communists	O
+to	O
+social	O
+democrats	O
+.	O
+
+In	O
+March	O
+2007	O
+,	O
+during	O
+the	O
+joint	O
+party	O
+convention	O
+of	O
+Left	B-ORG	X
+Party	I-ORG	X
+and	O
+WASG	B-ORG
+,	O
+a	O
+document	O
+outlining	O
+political	O
+principles	O
+was	O
+agreed	O
+on	O
+.	O
+
+The	O
+official	O
+program	O
+of	O
+the	O
+party	O
+was	O
+decided	O
+upon	O
+by	O
+an	O
+overwhelming	O
+majority	O
+at	O
+the	O
+party	O
+conference	O
+in	O
+October	O
+2011	O
+in	O
+Erfurt	B-LOC
+,	O
+Thuringia	B-LOC
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/FC_Porto
+
+In	O
+1933–34	O
+,	O
+Porto	B-ORG	X
+was	O
+denied	O
+participation	O
+in	O
+the	O
+Campeonato	O
+de	O
+Portugal	O
+by	O
+its	O
+football	O
+association	O
+for	O
+refusing	O
+to	O
+release	O
+players	O
+for	O
+a	O
+match	O
+between	O
+the	O
+Porto	B-LOC
+and	O
+Lisbon	B-LOC
+regional	O
+teams	O
+.	O
+
+In	O
+the	O
+following	O
+season	O
+,	O
+a	O
+second	O
+nationwide	O
+competition	O
+named	O
+"	O
+Campeonato	O
+da	O
+Primeira	O
+Liga	O
+"	O
+(	O
+English	O
+:	O
+Premier	O
+League	O
+Championship	O
+)	O
+,	O
+or	O
+simply	O
+Primeira	O
+Liga	O
+,	O
+was	O
+provisionally	O
+established	O
+by	O
+the	O
+national	O
+federation	O
+to	O
+increase	O
+the	O
+number	O
+of	O
+matches	O
+per	O
+season	O
+and	O
+improve	O
+the	O
+competitiveness	O
+of	O
+Portuguese	O
+football	O
+.	O
+
+As	O
+the	O
+regional	O
+champion	O
+,	O
+Porto	B-ORG	X
+qualified	O
+for	O
+the	O
+first	O
+edition	O
+of	O
+the	O
+new	O
+round-robin	O
+competition	O
+,	O
+winning	O
+it	O
+with	O
+10	O
+victories	O
+in	O
+14	O
+matches	O
+.	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/Sydney_Blue_Sox
+
+This	O
+would	O
+be	O
+Sydney	B-ORG	X
+'s	O
+only	O
+win	O
+of	O
+the	O
+postseason	O
+,	O
+as	O
+Adelaide	B-ORG
+came	O
+back	O
+and	O
+won	O
+the	O
+series	O
+2–1	O
+.	O
+
+Sydney	B-ORG	X
+players	O
+took	O
+three	O
+of	O
+the	O
+six	O
+season	O
+awards	O
+announced	O
+by	O
+the	O
+league	O
+:	O
+Koo	B-PER
+Dae-Sung	I-PER
+-	O
+Reliever	O
+of	O
+the	O
+Year	O
+Trent	B-PER
+Schmutter	I-PER
+-	O
+Rookie	O
+of	O
+the	O
+Year	O
+David	B-PER
+Welch	I-PER
+-	O
+Pitcher	O
+of	O
+the	O
+Year	O
+
+-DOCSTART- O	https://en.wikipedia.org/wiki/FC_Basel
+
+The	O
+famous	O
+"	O
+Blaugrana	O
+"	O
+colours	O
+of	O
+Barcelona	B-ORG
+are	O
+said	O
+to	O
+have	O
+originated	O
+from	O
+the	O
+Rotblau	O
+colours	O
+of	O
+FC	B-ORG	X
+Basel	I-ORG	X
+
+FC	B-ORG
+Barcelona	I-ORG
+was	O
+founded	O
+by	O
+former	O
+Basel	B-ORG	X
+captain	O
+Joan	B-PER
+Gamper	I-PER
+.	O
+
+For	O
+the	O
+2008–09	O
+season	O
+,	O
+Basel	B-ORG	X
+changed	O
+their	O
+shirt	O
+to	O
+resemble	O
+the	O
+traditional	O
+Barcelona	B-ORG
+shirt	O
+(	O
+red	O
+and	O
+blue	O
+vertical	O
+stripes	O
+)	O
+.	O
+
+Barcelona	B-ORG
+changed	O
+theirs	O
+to	O
+one	O
+half	O
+of	O
+the	O
+shirt	O
+red	O
+,	O
+the	O
+other	O
+blue	O
+,	O
+which	O
+happens	O
+to	O
+resemble	O
+the	O
+traditional	O
+Basel	B-ORG	X
+shirt	O
+.	O
+
+Basel	B-ORG	X
+'s	O
+current	O
+logo	O
+is	O
+a	O
+shield	O
+,	O
+the	O
+left	O
+half	O
+red	O
+and	O
+the	O
+right	O
+half	O
+blue	O
+.	O

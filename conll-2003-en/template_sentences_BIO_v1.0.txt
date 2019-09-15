@@ -1,0 +1,1571 @@
+-DOCSTART-	O	https://en.wikipedia.org/wiki/John_Lennon	Cooper	Elvin Bishop	Jeo Cocker	Alice Cooper	Eric Patrick Clapton
+
+He	O
+was	O
+born	O
+as	O
+John	B-PER	X
+Winston	I-PER	X
+Lennon	I-PER	X
+in	O
+Liverpool	B-LOC
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Donald_Tusk	Lech Wałęsa	Jerzy Budnik	Czesław Niemen	Adam Nahorny	Wałęsa
+
+Tusk	B-PER	X
+belongs	O
+to	O
+the	O
+Kashubian	O
+minority	O
+in	O
+Poland	B-ORG
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Kamil_Stoch	Adam Małysz	Ryōyū Kobayashi	Bjørn Wirkola	Reidar Amble Ommundsen	Veli-Matti Lindström
+
+Kamil	B-PER	X
+Stoch	I-PER	X
+started	O
+at	O
+Olympic	O
+Games	O
+four	O
+times	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Dave_Krusen	Alex Acuña	Nick D'Virgilio	Ipe Ivandić	Werner " Zappi " Diermaier	Mika " Gas Lipstick " Karppinen
+
+Aaron	B-PER	X
+Seravo	I-PER	X
+died	O
+of	O
+cancer	O
+January	O
+9	O
+,	O
+2011	O
+,	O
+surrounded	O
+by	O
+friends	O
+and	O
+loved	O
+ones	O
+,	O
+at	O
+Stanford	B-LOC
+University	I-LOC
+Hospital	I-LOC
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Dave_Krusen	Elvin Bishop	Joe Cocker	Alice Cooper	Eric Patrick Clapton	John Richard Baldwin
+
+Vocalist	O
+Eddie	B-PER	X
+Vedder	I-PER	X
+said	O
+,	O
+"	O
+Krusen	B-PER
+was	O
+a	O
+real	O
+hero	O
+...	O
+He	O
+was	O
+going	O
+through	O
+a	O
+lot	O
+,	O
+but	O
+he	O
+had	O
+something	O
+really	O
+special	O
+.	O
+
+-DOCSTART-	O	https://en.wikiquote.org/wiki/Stanley_Lane-Poole	Franz Boas	Margaret Mead	Terry Pratchett	Claude Lévi-Strauss	Orson Scott Card
+
+His	O
+uncle	O
+was	O
+Edward	B-PER	X
+William	I-PER	X
+Lane	I-PER	X
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Nirvana_(band)	Cooper	Elvin Bishop	Joe Cocker	Alice Cooper	Eric Patrick Clapton
+
+In	O
+fact	O
+,	O
+Cobain	B-PER	X
+says	O
+:	O
+"	O
+I	O
+have	O
+no	O
+concept	O
+of	O
+knowing	O
+how	O
+to	O
+be	O
+a	O
+musician	O
+at	O
+all	O
+what-so-ever	O
+...	O
+I	O
+couldn	O
+'t	O
+even	O
+pass	O
+Guitar	O
+101	O
+"	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Seattle	Kenny	Franklin Carlton Serafino Ferrana	Scott Hunter	Jesse Sprinkle	Sean Howard Kinney
+
+Seattle	B-LOC
+is	O
+also	O
+the	O
+birthplace	O
+of	O
+rock	O
+musician	O
+Jimi	B-PER	X
+Hendrix	I-PER	X
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Jimi_Hendrix	James " Slim " Hand	Lead Belly	John D . Loudermilk Jr .	Gillian Welch	Phil Ochs
+
+In	O
+mid-1958	O
+,	O
+at	O
+age	O
+15	O
+,	O
+Hendrix	B-PER	X
+acquired	O
+his	O
+first	O
+acoustic	O
+guitar	O
+,	O
+for	O
+$5	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Cristiano_Ronaldo	Cafu	Mostafa Nazari	Carlos Ortiz Jiménez	Suphawut Thueanklang	Essam El-Hadary
+
+Ahead	O
+of	O
+the	O
+2009–10	O
+season	O
+,	O
+Ronaldo	B-PER	X
+joined	O
+Real	B-ORG
+Madrid	I-ORG
+for	O
+a	O
+world	O
+record	O
+transfer	O
+fee	O
+at	O
+the	O
+time	O
+,	O
+of	O
+£80	O
+million	O
+(	O
+€94	O
+million	O
+)	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Amazon_(company)	Tata Consultancy Services	HCL Technologies	Oracle Financial Services Software	3i Infotech	C-DAC
+
+Amazon	B-ORG	X
+is	O
+also	O
+building	O
+out	O
+its	O
+logistics	O
+in	O
+trucking	O
+and	O
+air	O
+freight	O
+to	O
+potentially	O
+compete	O
+with	O
+UPS	B-ORG
+and	O
+FedEx	B-ORG
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/World_Health_Organization	International Rehabilitation Council for Torture Victims	No Peace Without Justice	UN Watch	Child Welfare League of Canada	United Nations
+
+The	O
+2012–2013	O
+WHO	B-ORG	X
+budget	O
+identified	O
+5	O
+areas	O
+among	O
+which	O
+funding	O
+was	O
+distributed	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Foo_Fighters	Alice in Chains	ACDC	Fearless Vampire Killers	Linkin Park	Queens of the Stone Age
+
+Foo	B-ORG	X
+Fighters	I-ORG	X
+is	O
+an	O
+American	O
+rock	O
+band	O
+,	O
+formed	O
+in	O
+Seattle	B-LOC
+,	O
+Washington	B-LOC
+,	O
+in	O
+1994	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/FC_Barcelona	Leganés	Valladolid B	Deportivo La Coruña	Granadilla Tenerife	Sanse
+
+Barcelona	B-ORG	X
+is	O
+one	O
+of	O
+the	O
+most	O
+widely	O
+supported	O
+teams	O
+in	O
+the	O
+world	O
+,	O
+and	O
+the	O
+club	O
+has	O
+one	O
+of	O
+the	O
+largest	O
+social	O
+media	O
+following	O
+in	O
+the	O
+world	O
+among	O
+sports	O
+teams	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Robert_Lewandowski	The Sunday Telegraph	The Sun on Sunday	Morning Star	City A . M .	Asian Express
+
+The	B-ORG	X
+Guardian	I-ORG	X
+has	O
+ranked	O
+him	O
+as	O
+the	O
+fifth-best	O
+footballer	O
+on	O
+the	O
+planet	O
+in	O
+2015	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Borussia_Dortmund	Hannover 96	SSV Ulm 1846	Rot-Weiss Essen	Stuttgarter Kickers	BVB
+
+One	O
+year	O
+later	O
+,	O
+Dortmund	B-ORG	X
+made	O
+a	O
+successful	O
+defence	O
+of	O
+its	O
+Bundesliga	O
+title	O
+with	O
+a	O
+win	O
+over	O
+Borussia	B-ORG
+Mönchengladbach	I-ORG
+,	O
+again	O
+on	O
+the	O
+32nd	O
+match	O
+day	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Atl%C3%A9tico_Madrid	Leganés	Valladolid B	Deportivo La Coruña	Granadilla Tenerife	Sanse
+
+Atlético	B-ORG
+'s	O
+best	O
+years	O
+coincided	O
+with	O
+dominant	O
+Real	B-ORG	X
+Madrid	I-ORG	X
+teams	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Arctic	Quebec	North Shore	National Capital Region	North Slave Region	Thirty Thousand Islands
+
+The	O
+Arctic	B-LOC	X
+region	O
+is	O
+a	O
+unique	O
+area	O
+among	O
+Earth	O
+'s	O
+ecosystems	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/South_America	Isthmus of Panama	Caribbean South America	Galápagos	Mesoamerican Biological Corridor	Ecuador
+
+South	B-LOC	X
+America	I-LOC	X
+has	O
+an	O
+area	O
+of	O
+17,840,000	O
+square	O
+kilometers	O
+(	O
+6,890,000	O
+sq	O
+mi	O
+)	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Wembley_Stadium	FNB Stadium	FedExField	Naghsh-e-Jahan Stadium	July 5 Stadium	Estádio do Morumbi
+
+Wembley	B-LOC	X
+Stadium	I-LOC	X
+does	O
+not	O
+have	O
+a	O
+retractable	O
+roof	O
+which	O
+covers	O
+the	O
+playing	O
+surface	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/FNB_Stadium	Wembley	FedExField	Naghsh-e-Jahan Stadium	July 5 Stadium	Estádio do Morumbi
+
+The	O
+stands	O
+in	O
+the	O
+FNB	B-LOC	X
+Stadium	I-LOC	X
+are	O
+articulated	O
+by	O
+ten	O
+black	O
+vertical	O
+lines	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Alaska	Kusilvak	Skagway	Aleutians West Census Area	Montana	Washington
+
+There	O
+are	O
+no	O
+officially	O
+defined	O
+borders	O
+demarcating	O
+the	O
+various	O
+regions	O
+of	O
+Alaska	B-LOC	X
+,	O
+but	O
+there	O
+are	O
+six	O
+widely	O
+accepted	O
+regions	O
+:	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Grand_Canyon	Columbia River Gorge	Snake River Canyon	Rakitnica	Three Gorges	Yarlung Zangbo Grand Canyon
+
+However	O
+,	O
+the	O
+Grand	B-LOC	X
+Canyon	I-LOC	X
+is	O
+known	O
+for	O
+its	O
+visually	O
+overwhelming	O
+size	O
+and	O
+its	O
+intricate	O
+and	O
+colorful	O
+landscape	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Sahara	Australian Desert	Dasht-e Margo	Mojave Desert	Thar Desert	Gobi
+
+There	O
+is	O
+a	O
+suggestion	O
+that	O
+the	O
+last	O
+time	O
+that	O
+the	O
+Sahara	B-LOC	X
+was	O
+converted	O
+from	O
+savanna	O
+to	O
+desert	O
+it	O
+was	O
+partially	O
+due	O
+to	O
+overgrazing	O
+by	O
+the	O
+cattle	O
+of	O
+the	O
+local	O
+population	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Aleutian_Islands	Kotelny Island	Vaygach	Georga	Iony Island	Reyneke Island
+
+Observations	O
+have	O
+identified	O
+sea	O
+otters	O
+as	O
+a	O
+keystone	O
+species	O
+along	O
+the	O
+coasts	O
+of	O
+many	O
+of	O
+the	O
+,	O
+Aleutian	B-LOC	X
+Islands	I-LOC	X
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Wembley_Stadium	Artern	Münchenbernsdorf	Annaberg-Buchholz	Furth im Wald	Dissen am Teutoburger Wald
+
+On	O
+22	O
+August	O
+Germany	B-LOC
+beat	O
+England	B-LOC
+2–1	O
+to	O
+become	O
+the	O
+first	O
+team	O
+to	O
+beat	O
+them	O
+in	O
+the	O
+new	O
+Wembley	B-LOC	X
+Stadium	I-LOC	X
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Al-Qaeda	al-Qaeda	Army of Islam	Harkat-ul-Mujahideen	Lashkar-e-Taiba	al-Jama'a al-Islamiyya
+
+Al-Qaeda	B-ORG	X
+'s	O
+indirect	O
+affiliates	O
+includes	O
+the	O
+following	O
+,	O
+some	O
+of	O
+which	O
+have	O
+left	O
+the	O
+organization	O
+and	O
+joined	O
+the	O
+Islamic	B-ORG
+State	I-ORG
+of	I-ORG
+Iraq	I-ORG
+and	I-ORG
+the	I-ORG
+Levant	I-ORG
+:	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Spain_national_football_team	Russia	Croatia	Czech Republic	Iceland	Georgia
+
+Below	O
+is	O
+a	O
+list	O
+of	O
+the	O
+ten	O
+players	O
+with	O
+the	O
+most	O
+caps	O
+for	O
+Spain	B-LOC	X
+,	O
+as	O
+of	O
+15	O
+November	O
+2018	O
+.
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Alexander_Lukashenko	Kota Srinivasa Rao	Moon Moon Sen	Joseph Estrada	Al Murray	Salvatore Phillip " Sonny " Bono
+
+Lukashenko	B-PER	X
+promotes	O
+himself	O
+as	O
+a	O
+"	O
+man	O
+of	O
+the	O
+people	O
+.	O
+"	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Donetsk_People%27s_Republic	Igor Plotnitsky	Valery Bolotov	Leonid Pasechnik	Alexander Vladimirovich Zakharchenko	Pavel Yuryevich Gubarev
+
+Denis	B-PER	X
+Pushilin	I-PER	X
+,	O
+the	O
+self-proclaimed	O
+chairman	O
+of	O
+the	O
+republic	O
+,	O
+said	O
+that	O
+he	O
+did	O
+not	O
+envision	O
+the	O
+Donetsk	B-LOC
+People's	I-LOC
+Republic	I-LOC
+becoming	O
+an	O
+independent	O
+state	O
+,	O
+instead	O
+preferring	O
+to	O
+join	O
+a	O
+renewed	O
+Russian	B-LOC
+Empire	I-LOC
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Joey_Boy	Apisit Opasaimlikit	Opasaimlikit
+
+Born	O
+into	O
+a	O
+Thai	O
+Chinese	O
+family	O
+,	O
+Joey	B-PER	X
+Boy	I-PER	X
+started	O
+listening	O
+to	O
+hip	O
+hop	O
+when	O
+he	O
+was	O
+14	O
+years	O
+old	O
+and	O
+skateboarding	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Last_Man_Standing_(1996_film)	Joe Monday	Joe
+
+Smith	B-PER
+gets	O
+into	O
+his	O
+Ford	O
+(	O
+which	O
+was	O
+repaired	O
+by	O
+the	O
+mechanic	O
+)	O
+and	O
+drives	O
+on	O
+to	O
+Mexico	B-LOC
+,	O
+his	O
+original	O
+destination	O
+,	O
+leaving	O
+Monday	B-PER	X
+some	O
+money	O
+and	O
+Doyle	O
+'s	O
+car	O
+to	O
+return	O
+to	O
+Jericho	B-LOC
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Bongo_Bong	Williams	Bob Marley	Marley	Robert Peter Maximilian Williams
+
+In	O
+2006	O
+,	O
+a	O
+cover	O
+version	O
+by	O
+Robbie	B-PER	X
+Williams	I-PER	X
+,	O
+combining	O
+"	O
+Bongo	O
+Bong	O
+"	O
+and	O
+"	O
+Je	O
+ne	O
+t	O
+'	O
+aime	O
+plus	O
+"	O
+in	O
+one	O
+track	O
+(	O
+much	O
+in	O
+the	O
+way	O
+the	O
+tracks	O
+are	O
+intertwined	O
+on	O
+Clandestino	O
+)	O
+,	O
+appeared	O
+on	O
+his	O
+album	O
+Rudebox	O
+and	O
+was	O
+released	O
+as	O
+a	O
+single	O
+release	O
+of	O
+its	O
+own	O
+in	O
+2007	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Manchester_City_F.C.	Guardiola	Jürgen Klopp	Klopp	Josep Guardiola i Sala
+
+Under	O
+the	O
+management	O
+of	O
+Pep	B-PER	X
+Guardiola	I-PER	X
+they	O
+won	O
+the	O
+Premier	O
+League	O
+in	O
+2018	O
+becoming	O
+the	O
+only	O
+Premier	O
+League	O
+team	O
+to	O
+attain	O
+100	O
+points	O
+in	O
+a	O
+single	O
+season	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/HTMS_Maeklong	Meklong	Khwae Noi	Khwae Sai Yok	Khwae Si Sawat
+
+The	O
+ship	O
+is	O
+named	O
+after	O
+a	O
+river	O
+,	O
+the	O
+Mae	B-LOC	X
+Klong	I-LOC	X
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/The_Witcher	Stanisław Lem	Sapkowski	Lem	Tolkien	J.W. Tolkien
+
+The	O
+Witcher	O
+short	O
+stories	O
+by	O
+the	O
+author	O
+Andrzej	B-PER	X
+Sapkowski	I-PER	X
+were	O
+first	O
+published	O
+in	O
+Polish	O
+science	O
+fiction	O
+and	O
+fantasy	O
+magazine	O
+Fantastyka	B-ORG
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Vincent_van_Gogh	Vincent Van Gogh	Bosch	Charles Laval	Lucien Pissarro	Vincent Willem van Gogh
+
+Born	O
+into	O
+an	O
+upper-middle-class	O
+family	O
+,	O
+Van	B-PER	X
+Gogh	I-PER	X
+drew	O
+as	O
+a	O
+child	O
+and	O
+was	O
+serious	O
+,	O
+quiet	O
+and	O
+thoughtful	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Keith_Waite	Otago Daily Times	Gazeta Wyborcza	New York Times	Information Times
+
+He	O
+took	O
+up	O
+a	O
+position	O
+at	O
+the	O
+Otago	B-ORG	X
+Daily	I-ORG	X
+Times	I-ORG	X
+as	O
+a	O
+staff	O
+cartoonist	O
+in	O
+1949	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/United_States_Federal_Maritime_Board	Federal Bureau of Investigation	Bureau of Trade Analysis
+
+The	O
+regulatory	O
+role	O
+was	O
+assigned	O
+to	O
+the	O
+newly	O
+created	O
+Federal	B-ORG	X
+Maritime	I-ORG	X
+Commission	I-ORG	X
+,	O
+while	O
+the	O
+promotional	O
+role	O
+was	O
+assigned	O
+to	O
+MARAD	B-ORG
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Peak_Hill,_Western_Australia	Montezuma Company	Fortescue Metals Group	Montezuma Mining Ltd .
+
+Montezuma	B-ORG	X
+Mining	I-ORG	X
+Company	I-ORG	X
+Ltd	I-ORG	X
+purchased	O
+the	O
+mine	O
+from	O
+Barrick	B-ORG
+Gold	I-ORG
+and	O
+Rio	B-ORG
+Tinto	I-ORG
+in	O
+August	O
+2007	O
+for	O
+$	O
+1	O
+million	O
+cash	O
+and	O
+$	O
+600,000	O
+of	O
+environmental	O
+bonds	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/The_Remains_of_the_Day_(film)	Wern	Richard Edward Geoffrey	R. Geoffrey	R E Geoffrey	John Adalbert Doderidge
+
+The	O
+character	O
+of	O
+Sir	O
+Geoffrey	B-PER	X
+Wren	I-PER	X
+is	O
+based	O
+loosely	O
+on	O
+that	O
+of	O
+Sir	O
+Oswald	B-PER
+Mosley	I-PER
+,	O
+a	O
+British	O
+fascist	O
+active	O
+in	O
+the	O
+1930s	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Norman_Blake_(Scottish_musician)	Blake	Jim Lambie	Raymond McGinley	Francis Macdonald	Paul Quinn
+
+Norman	B-PER	X
+Blake	I-PER	X
+features	O
+prominently	O
+in	O
+the	O
+2017	O
+documentary	O
+Teenage	O
+Superstars	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Leiden_University	League of European Research Universities	LERU	Association of American Medical Colleges
+
+It	O
+is	O
+a	O
+member	O
+of	O
+the	O
+Coimbra	B-ORG
+Group	I-ORG
+,	O
+the	O
+Europaeum	B-ORG
+,	O
+and	O
+a	O
+founding	O
+member	O
+of	O
+the	O
+League	B-ORG	X
+of	I-ORG	X
+European	I-ORG	X
+Research	I-ORG	X
+Universities	I-ORG	X
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Heritiera_fomes	Greenpeace	Organization for Conservation of Nature	Greenpeace International
+
+The	B-ORG	X
+International	I-ORG	X
+Union	I-ORG	X
+for	I-ORG	X
+Conservation	I-ORG	X
+of	I-ORG	X
+Nature	I-ORG	X
+has	O
+assessed	O
+it	O
+as	O
+being	O
+"	O
+endangered	O
+"	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Jacek_Malczewski	Gustave Moreau	Salvador Dalí	Dali	Moreau
+
+His	O
+art	O
+has	O
+been	O
+compared	O
+to	O
+that	O
+of	O
+Gustave	B-PER	X
+Moreau	I-PER	X
+,	O
+Arnold	B-PER
+Böcklin	I-PER
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/North_Korean_abductions_of_South_Koreans;https://en.wikipedia.org/wiki/	Humanitarian_Organization_for_Migration_Economics	United Nations Office for the Coordination of Humanitarian Affairs	Humanitarian Organization for Migration Economics
+
+The	O
+South	O
+and	O
+the	O
+North	O
+agreed	O
+to	O
+hold	O
+the	O
+sixth	O
+round	O
+of	O
+Red	B-ORG	X
+Cross	I-ORG	X
+talks	O
+to	O
+consult	O
+about	O
+humanitarian	O
+issues	O
+including	O
+confirmation	O
+of	O
+the	O
+fates	O
+and	O
+whereabouts	O
+of	O
+the	O
+missing	O
+people	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Battle_of_Changping	Qinyang	Yangzhai	Qin Shi Huang	Nan
+
+Qin	B-PER	X
+attacked	O
+the	O
+town	O
+of	O
+Qinyang	B-LOC
+in	O
+the	O
+State	B-LOC
+of	I-LOC
+Han	I-LOC
+in	O
+265	O
+BC	O
+,	O
+which	O
+made	O
+Shangdang	B-LOC
+(	O
+in	O
+modern-day	O
+southeastern	O
+Shanxi	B-LOC
+province	O
+)	O
+an	O
+exclave	O
+land	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Harmony,_Florida	Starwood Group	Western America Capital Group	Harmony Residential Owners Association
+
+Harmony	B-ORG
+was	O
+opened	O
+for	O
+occupancy	O
+in	O
+approximately	O
+2003	O
+and	O
+ownership	O
+was	O
+transferred	O
+to	O
+Starwood	B-ORG	X
+Capital	I-ORG	X
+Group	I-ORG	X
+in	O
+2005	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/General_People%27s_Committee	Ra’s al-Unūf	Tripoli
+
+In	O
+early	O
+1993	O
+it	O
+was	O
+announced	O
+that	O
+the	O
+Secretariat	B-ORG
+for	I-ORG
+Foreign	I-ORG
+Liaison	I-ORG
+and	I-ORG
+International	I-ORG
+Cooperation	I-ORG
+was	O
+to	O
+be	O
+moved	O
+to	O
+Ra	B-LOC	X
+'s	I-LOC	X
+Lanuf	I-LOC	X
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Rainy_River_District_School_Board	J. W. Walker School	Walker Public School
+
+J.	B-ORG	X
+W.	I-ORG	X
+Walker	I-ORG	X
+Public	I-ORG	X
+School	I-ORG	X
+is	O
+located	O
+in	O
+the	O
+Fort	B-LOC
+Frances	I-LOC
+,	O
+Ontario	B-LOC
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Microsoft	Google	Amazon
+
+Microsoft	B-ORG	X
+became	O
+the	O
+third	O
+U.S.	B-LOC
+public	O
+company	O
+to	O
+be	O
+valued	O
+at	O
+over	O
+$1	O
+trillion	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Constantin_S._Nicol%C4%83escu-Plop%C8%99or	Bolliac	John Wattson	Wattson
+
+For	O
+example	O
+,	O
+he	O
+recommended	O
+following	O
+19th	O
+century	O
+researcher	O
+Cezar	B-PER	X
+Bolliac	I-PER	X
+in	O
+designating	O
+industrial	O
+nuclei	O
+as	O
+mătci	O
+(	O
+"	O
+sources	O
+"	O
+or	O
+"	O
+wombs	O
+"	O
+)	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/St._Lucas,_Iowa	U.S. Census Bureau	Canada Census Bureau
+
+According	O
+to	O
+the	O
+United	B-ORG	X
+States	I-ORG	X
+Census	I-ORG	X
+Bureau	I-ORG	X
+,	O
+the	O
+city	O
+has	O
+a	O
+total	O
+area	O
+of	O
+0.27	O
+square	O
+miles	O
+(	O
+0.70	O
+km2	O
+)	O
+,	O
+all	O
+of	O
+it	O
+land	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Humanitarian_response_to_the_2011_T%C5%8Dhoku_earthquake_and_tsunami	Canadian Red Cross	Red Cross
+
+The	O
+Singapore	B-ORG	X
+Red	I-ORG	X
+Cross	I-ORG	X
+appointed	O
+by	O
+the	O
+Ministry	B-ORG
+of	I-ORG
+Foreign	I-ORG	
+Affairs	I-ORG
+coordinated	O
+relief	O
+efforts	O
+to	O
+Japan	B-LOC
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Rosland_Capital	Roslan Capital	Microsoft	Synerise Inc .
+
+For	O
+each	O
+book	O
+sold	O
+,	O
+Rosland	B-ORG	X
+Capital	I-ORG	X
+said	O
+they	O
+would	O
+make	O
+a	O
+donation	O
+to	O
+the	O
+American	B-ORG
+Red	I-ORG
+Cross	I-ORG
+.	0
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Pablo_Picasso	Picasso	Pablo Picasso
+
+Pablo	B-PER	X
+Ruiz	I-PER	X
+Picasso	I-PER	X
+(	O
+25	O
+October	O
+1881	O
+–	O
+8	O
+April	O
+1973	O
+)	O
+was	O
+a	O
+Spanish	O
+painter	O
+,	O
+sculptor	O
+,	O
+printmaker	O
+,	O
+ceramicist	O
+,	O
+stage	O
+designer	O
+,	O
+poet	O
+and	O
+playwright	O
+who	O
+spent	O
+most	O
+of	O
+his	O
+adult	O
+life	O
+in	O
+France	B-LOC
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Henri_Matisse	Henri Matisse	Matisse
+
+Henri	B-PER	X
+Émile	I-PER	X
+Benoît	I-PER	X
+Matisse	I-PER	X
+(	O
+31	O
+December	O
+1869	O
+–	O
+3	O
+November	O
+1954	O
+)	O
+was	O
+a	O
+French	O
+artist	O
+,	O
+known	O
+for	O
+both	O
+his	O
+use	O
+of	O
+colour	O
+and	O
+his	O
+fluid	O
+and	O
+original	O
+draughtsmanship	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Henri_Matisse	Turner	J . Turner	Jean - Baptiste - Siméon Chardin	Nicolas Poussin	Antoine Watteau	Édouard Manet
+
+In	O
+1898	O
+,	O
+on	O
+the	O
+advice	O
+of	O
+Camille	B-PER
+Pissarro	I-PER
+,	O
+he	O
+went	O
+to	O
+London	B-LOC
+to	O
+study	O
+the	O
+paintings	O
+of	O
+J.	B-PER	X
+M.	I-PER	X
+W.	I-PER	X
+Turner	I-PER	X
+and	O
+then	O
+went	O
+on	O
+a	O
+trip	O
+to	O
+Corsica	B-LOC
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Neoclassicism_(music)	Edvard Grieg	Pyotr Ilyich Tchaikovsky	George Enescu	Max Reger
+
+In	O
+pieces	O
+of	O
+Franz	B-PER	X
+Liszt	I-PER	X
+,	O
+a	O
+composer	O
+"	O
+dressed	O
+up	O
+their	O
+music	O
+in	O
+old	O
+clothes	O
+in	O
+order	O
+to	O
+create	O
+a	O
+smiling	O
+or	O
+pensive	O
+evocation	O
+of	O
+the	O
+past	O
+"	O
+(	O
+Albright	B-PER
+2004	O
+,	O
+276	O
+)	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Opera	Rossini	Gaetano Donizetti	Donizetti	Vincenzo Bellini	Bellini
+
+The	O
+first	O
+third	O
+of	O
+the	O
+19th	O
+century	O
+saw	O
+the	O
+high	O
+point	O
+of	O
+the	O
+bel	O
+canto	O
+style	O
+,	O
+with	O
+Gioachino	B-PER	X
+Rossini	I-PER	X
+creating	O
+works	O
+that	O
+are	O
+still	O
+performed	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Opera	Verdi	Richard Wagner	Wagner
+
+The	O
+mid-to-late	O
+19th	O
+century	O
+was	O
+a	O
+golden	O
+age	O
+of	O
+opera	O
+,	O
+led	O
+and	O
+dominated	O
+by	O
+Giuseppe	B-PER	X
+Verdi	I-PER	X
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/U2	Autechre	DC Talk	Rockapella
+
+U2	B-ORG	X
+'s	O
+musical	O
+style	O
+has	O
+evolved	O
+throughout	O
+their	O
+career	O
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_of_Poland	Malbork Castle	Cracow Old Town	Wooden Tserkvas of Carpathian Region	Muskauer Park	Park Mużakowski	Old City of Zamość
+
+There	O
+are	O
+15	O
+World	O
+Heritages	O
+Sites	O
+in	O
+Poland	B-LOC
+including	0
+Belovezhskaya	B-LOC	X
+Pushcha	I-LOC	X
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Himalayas	Everest	Kangchenjunga	Lhotse	Makalu	Cho Oyu
+
+The	O
+Himalayas	B-LOC
+has	O
+many	O
+of	O
+the	O
+Earth	B-LOC
+'s	O
+highest	O
+peaks	O
+,	O
+including	O
+Mount	B-LOC	X
+Everest	I-LOC	X
+.	O
+
+-DOCSTART-	O	https://en.wikipedia.org/wiki/Great_Salt_Lake_Desert	Utah Lake	Lake Powell	Bear Lake	Tony Grove Lake	Fish Lake	Flaming Gorge Reservoir
+
+The	O
+Great	B-LOC	X
+Salt	I-LOC	X
+Lake	I-LOC	X
+is	O
+a	O
+large	O
+lake	O
+in	O
+northern	O
+Utah	B-LOC
+,	O
+United	B-LOC
+States	I-LOC
+.	O
